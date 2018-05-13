@@ -4,6 +4,13 @@ from sklearn.model_selection import train_test_split
 from sklearn.cluster import KMeans
 import pandas as pd
 
+from sklearn.metrics import confusion_matrix
+from itertools import product
+import matplotlib.pyplot as plt
+import itertools
+import plot_confusion_matrix
+
+
 clf = RandomForestClassifier(bootstrap=True,max_depth=10, random_state=10)
 # x=np.loadtxt("x_train.txt")
 # x=x[:,50:]
@@ -80,42 +87,68 @@ print("train acc: ",train_acc)
 acc=np.mean(ypredict==yval)
 print("test acc: ",acc)
 
-
-from sklearn import svm
-
-
-clf = svm.SVC( gamma=1,kernel='rbf',C=1e1, decision_function_shape='ovo',degree=5,probability=True)
-clf.fit(x,y)
-ypredict=clf.predict(xval)
-y1=clf.predict(x)
-train_acc=np.mean(y1==y)
-print("train acc: ",train_acc)
-acc=np.mean(ypredict==yval)
-err=np.zeros((4,4))
-for i in range(xval.shape[0]):
-	err[int(ypredict[i]),int(yval[i])]+=1
-
-print(err)
+cnf_matrix = confusion_matrix(yval, ypredict)
+np.set_printoptions(precision=2)
 
 
-print("test acc: ",acc)
+
+class_names1=['low_emp'    'agri_emp'   'mixed_emp' 'Non_agri_emp']
+class_names2=['\n\n\n\n\n\n\n\n\nlow_emp\n\n\n\n\n\n' 'agricultural emp\n\n\n\n\n\n' 'mixed emp\n\n\n\n\n\n' 'Non-agricultural emp']
 
 
-##########################
-from sklearn.neural_network import MLPClassifier
-clf = MLPClassifier(solver='adam', alpha=1e2, hidden_layer_sizes=(10,10), random_state=10,max_iter=5000,learning_rate_init=1e-3,tol=1e-7,validation_fraction=0)
-clf.fit(x,y)
-ypredict=clf.predict(xval)
-y1=clf.predict(x)
-train_acc=np.mean(y1==y)
-print("train acc: ",train_acc)
-acc=np.mean(ypredict==yval)
-print("test acc: ",acc)
+# Plot non-normalized confusion matrix
+plt.figure()
+plot_confusion_matrix.plot_confusion_matrix(cnf_matrix, classes1=class_names1, classes2=class_names2,
+                      title='Confusion matrix, without normalization')
 
-err=np.zeros((4,4))
-for i in range(xval.shape[0]):
-	err[int(ypredict[i]),int(yval[i])]+=1
+plt.savefig("unnormalized_confusion_matrix.png")
 
-print(err)
+# Plot normalized confusion matrix
+fig2=plt.figure()
+plot_confusion_matrix.plot_confusion_matrix(cnf_matrix, classes1=class_names1, classes2=class_names2, normalize=True,
+                      title='Normalized confusion matrix')
+
+plt.savefig("normalized_confusion_matrix.png")
+
+
+plt.show()
+
+
+# from sklearn import svm
+
+
+# clf = svm.SVC( gamma=1,kernel='rbf',C=1e1, decision_function_shape='ovo',degree=5,probability=True)
+# clf.fit(x,y)
+# ypredict=clf.predict(xval)
+# y1=clf.predict(x)
+# train_acc=np.mean(y1==y)
+# print("train acc: ",train_acc)
+# acc=np.mean(ypredict==yval)
+# err=np.zeros((4,4))
+# for i in range(xval.shape[0]):
+# 	err[int(ypredict[i]),int(yval[i])]+=1
+
+# print(err)
+
+
+# print("test acc: ",acc)
+
+
+# ##########################
+# from sklearn.neural_network import MLPClassifier
+# clf = MLPClassifier(solver='adam', alpha=1e2, hidden_layer_sizes=(10,10), random_state=10,max_iter=5000,learning_rate_init=1e-3,tol=1e-7,validation_fraction=0)
+# clf.fit(x,y)
+# ypredict=clf.predict(xval)
+# y1=clf.predict(x)
+# train_acc=np.mean(y1==y)
+# print("train acc: ",train_acc)
+# acc=np.mean(ypredict==yval)
+# print("test acc: ",acc)
+
+# err=np.zeros((4,4))
+# for i in range(xval.shape[0]):
+# 	err[int(ypredict[i]),int(yval[i])]+=1
+
+# print(err)
 
 
