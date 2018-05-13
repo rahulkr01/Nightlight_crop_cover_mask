@@ -24,7 +24,9 @@ clf = RandomForestClassifier(bootstrap=True,max_depth=10, random_state=10)
 # var=np.var(x1,axis=0)
 # print(mean.shape)
 # var[var==0]=1
-g=open('mask/out_masked_64neg.csv')
+
+
+g=open('mask/out_unmasked64.csv')
 
 y=np.loadtxt("mask/EMP_data.txt")
 y=y[:,6]
@@ -32,7 +34,7 @@ y=y[:,6]
 y=y-11
 
 nl=g.read().split('\n')
-x=np.zeros((640,128))
+x=np.zeros((640,64))
 
 
 yvalues={0:0,1:1,2:2,3:3 }
