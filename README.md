@@ -30,19 +30,51 @@ python plot_boxplot.py
 
 Results:
 
+Using Random forest classifer
 
 Accuracy on test data:
 
 Predicting employment clusters:
 a. Unmasked Nightlight
-b. Masked Nightlight:   
 
+Test accuracy:  54.69 %
 
-
-c.Using 128 length feature vector :  60.16% using Random Forest
+Train accuracy: 90.23 %
 
 
 Confusion matrix:
+
+
+![unnormalized_emp_confusion_a](Results/emp_unnormalized_cm_a.png)
+
+![normalized_emp_confusion_a](Results/emp_normalized_cm_a.png)
+
+
+b. Masked Nightlight:   
+
+Test accuracy: 62.5 % 
+
+Train accuracy: 94.14% 
+
+
+Confusion matrix:
+
+
+![unnormalized_emp_confusion_b](Results/emp_unnormalized_confusion_b.png)
+
+![normalized_emp_confusion_b](Results/emp_normalized_confusion_b.png)
+
+
+c.Using 128 length feature vector :  
+
+Test accuracy:  60.16% 
+
+Train accuracy: 91.99%
+
+
+Confusion matrix:
+
+
 ![unnormalized_emp_confusion_matrix](Results/emp_unnormalized_confusion_matrix.png)
 
 ![normalized_emp_confusion_matrix](Results/emp_normalized_confusion_matrix.png)
