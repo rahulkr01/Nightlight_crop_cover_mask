@@ -1,0 +1,642 @@
+DISTRICT	DT_CEN_CD	ST_CEN_CD	ST_NM	avg_lights_x_pct	avg_vis	censuscode	cf_cvg	stable_lights
+South Andaman	3	35	Andaman & Nicobar Island	1.60E+09	8.84E+09	640	1.43E+11	2.36E+09
+Nicobar	1	35	Andaman & Nicobar Island	2.62E+08	5.49E+09	638	7.17E+10	3.98E+08
+North & Middle Andaman	2	35	Andaman & Nicobar Island	4.27E+08	1.04E+10	639	2.09E+11	8.85E+08
+Lawangtlai	7	15	Mizoram	1.55E+08	6.19E+09	287	1.16E+11	1.71E+08
+Lunglei	6	15	Mizoram	5.05E+08	1.43E+10	286	2.53E+11	7.07E+08
+Saiha	8	15	Mizoram	1.53E+08	6.08E+09	288	1.13E+11	1.61E+08
+Dibang Valley	13	12	Arunanchal Pradesh	7.28E+08	2.50E+10	257	4.50E+11	0
+Upper Siang	8	12	Arunanchal Pradesh	3.95E+08	2.19E+10	252	3.93E+11	1.51E+07
+Lower Dibang Valley	14	12	Arunanchal Pradesh	4.29E+08	1.77E+10	258	3.35E+11	3.40E+07
+Tuensang	7	13	Nagaland	2.74E+08	7.63E+09	267	1.25E+11	1.29E+08
+Mon	1	13	Nagaland	2.28E+08	5.82E+09	261	9.32E+10	3.23E+08
+Tirap	10	12	Arunanchal Pradesh	1.18E+08	6.25E+09	254	9.82E+10	8.05E+07
+Sivasagar	12	18	Assam	1.18E+10	1.98E+10	311	1.37E+11	1.71E+10
+Changlang	9	12	Arunanchal Pradesh	1.72E+09	1.70E+10	253	2.57E+11	2.06E+09
+Lohit	15	12	Arunanchal Pradesh	7.82E+08	1.27E+10	259	2.14E+11	8.27E+08
+Anjaw	16	12	Arunanchal Pradesh	6.76E+08	2.07E+10	260	3.67E+11	0
+Tinsukia	10	18	Assam	1.10E+10	2.23E+10	309	1.93E+11	1.46E+10
+Dhemaji	9	18	Assam	2.61E+08	8.18E+09	308	1.47E+11	1.41E+08
+Dibrugarh	11	18	Assam	2.74E+10	3.59E+10	310	1.73E+11	3.14E+10
+East Siang	7	12	Arunanchal Pradesh	4.00E+08	1.18E+10	251	2.10E+11	6.96E+07
+West Siang	6	12	Arunanchal Pradesh	5.18E+08	2.48E+10	250	4.49E+11	7.78E+07
+Upper Subansiri	5	12	Arunanchal Pradesh	3.95E+08	2.09E+10	249	3.98E+11	0
+Jorhat	13	18	Assam	3.88E+09	1.34E+10	312	1.77E+11	7.24E+09
+Lakhimpur	8	18	Assam	7.03E+08	9.81E+09	307	1.77E+11	1.01E+09
+Lower Subansiri	11	12	Arunanchal Pradesh	2.03E+08	7.69E+09	255	1.53E+11	1.26E+08
+Papum Pare	4	12	Arunanchal Pradesh	1.16E+09	1.25E+10	248	2.37E+11	1.58E+09
+Kurung Kumey	12	12	Arunanchal Pradesh	4.69E+08	2.29E+10	256	4.46E+11	0
+East Kameng	3	12	Arunanchal Pradesh	3.68E+08	1.96E+10	247	3.98E+11	5.08E+07
+West Kameng	2	12	Arunanchal Pradesh	5.51E+08	1.72E+10	246	3.47E+11	5.55E+08
+Tawang	1	12	Arunanchal Pradesh	1.91E+08	7.82E+09	245	1.50E+11	1.43E+08
+Sonitpur	7	18	Assam	3.60E+09	2.10E+10	306	3.30E+11	8.10E+09
+Golaghat	14	18	Assam	6.76E+09	1.78E+10	313	2.00E+11	1.19E+10
+Karbi Anglong	15	18	Assam	3.88E+09	3.54E+10	314	6.09E+11	3.92E+09
+Nagaon	6	18	Assam	4.51E+09	1.82E+10	305	2.39E+11	1.07E+10
+Marigaon	5	18	Assam	8.60E+08	6.11E+09	304	9.28E+10	1.95E+09
+Jaintia Hills	7	17	Meghalaya	1.33E+09	1.29E+10	299	1.85E+11	1.67E+09
+Dima Hasao	16	18	Assam	2.10E+09	1.67E+10	315	2.62E+11	1.71E+09
+Dimapur	5	13	Nagaland	2.27E+09	4.75E+09	265	4.72E+10	3.02E+09
+Peren	11	13	Nagaland	3.68E+08	5.64E+09	271	1.01E+11	4.15E+08
+Kohima	10	13	Nagaland	7.72E+08	5.26E+09	270	8.02E+10	1.19E+09
+Wokha	4	13	Nagaland	5.19E+08	5.40E+09	264	9.33E+10	7.46E+08
+Phek	6	13	Nagaland	1.99E+08	6.33E+09	266	1.13E+11	1.41E+08
+Zunheboto	3	13	Nagaland	2.20E+08	3.99E+09	263	6.84E+10	1.89E+08
+Mokokchung	2	13	Nagaland	4.50E+08	5.45E+09	262	9.19E+10	8.78E+08
+Longleng	8	13	Nagaland	1.00E+08	1.81E+09	268	3.05E+10	1.16E+08
+Kiphire	9	13	Nagaland	1.12E+08	3.54E+09	269	5.87E+10	4.63E+07
+Senapati	1	14	Manipur	6.04E+08	1.13E+10	272	1.85E+11	1.25E+09
+Ukhrul	8	14	Manipur	4.39E+08	1.37E+10	279	2.41E+11	3.43E+08
+Tamenglong	2	14	Manipur	3.57E+08	1.29E+10	273	2.33E+11	1.66E+08
+Imphal East	7	14	Manipur	4.87E+09	7.64E+09	278	5.12E+10	7.03E+09
+Chandel	9	14	Manipur	4.49E+08	9.95E+09	280	1.73E+11	3.51E+08
+Thoubal	5	14	Manipur	8.67E+08	3.30E+09	276	3.97E+10	2.35E+09
+Bishnupur	4	14	Manipur	4.94E+08	2.13E+09	275	2.65E+10	1.53E+09
+Churachandpur	3	14	Manipur	6.18E+08	1.43E+10	274	2.61E+11	7.81E+08
+Champhai	4	15	Mizoram	3.13E+08	1.05E+10	284	1.90E+11	4.89E+08
+Aizawl	3	15	Mizoram	2.20E+09	1.36E+10	283	2.11E+11	2.79E+09
+Serchhip	5	15	Mizoram	1.14E+08	3.72E+09	285	6.48E+10	3.35E+08
+Mamit	1	15	Mizoram	2.90E+08	9.57E+09	281	1.67E+11	3.59E+08
+Kolasib	2	15	Mizoram	3.39E+08	4.49E+09	282	7.73E+10	6.09E+08
+Hailakandi	19	18	Assam	1.03E+09	5.42E+09	318	7.46E+10	2.53E+09
+Karimganj	18	18	Assam	1.55E+09	7.78E+09	317	9.72E+10	3.68E+09
+Cachar	17	18	Assam	3.12E+09	1.55E+10	316	2.08E+11	7.38E+09
+Imphal West	6	14	Manipur	1.45E+08	1.08E+09	277	1.64E+10	2.49E+08
+Ri Bhoi	5	17	Meghalaya	2.86E+09	1.03E+10	297	1.29E+11	2.39E+09
+East Khasi Hills	6	17	Meghalaya	4.66E+09	1.34E+10	298	1.29E+11	5.51E+09
+West Khasi Hills	4	17	Meghalaya	2.76E+09	1.86E+10	296	2.83E+11	7.12E+08
+West Tripura	1	16	Tripura	1.01E+10	1.91E+10	289	1.66E+11	1.49E+10
+Dhalai	3	16	Tripura	9.25E+08	7.83E+09	291	1.20E+11	1.76E+09
+North Tripura	4	16	Tripura	2.03E+09	8.52E+09	292	1.09E+11	4.01E+09
+South Tripura	2	16	Tripura	2.13E+09	1.25E+10	290	1.85E+11	5.25E+09
+South Garo Hills	3	17	Meghalaya	7.92E+08	6.76E+09	295	1.16E+11	6.29E+08
+East Garo Hills	2	17	Meghalaya	2.01E+09	1.12E+10	294	1.80E+11	1.79E+09
+West Garo Hills	1	17	Meghalaya	1.66E+09	1.24E+10	293	2.04E+11	2.17E+09
+Dhubri	2	18	Assam	1.01E+09	8.55E+09	301	1.47E+11	2.30E+09
+Goalpara	3	18	Assam	1.27E+09	8.08E+09	302	1.27E+11	3.24E+09
+Bongaigaon	20	18	Assam	7.82E+08	4.58E+09	319	6.81E+10	2.47E+09
+Chirang	21	18	Assam	2.25E+09	7.72E+09	320	1.10E+11	3.14E+09
+Kokrajhar	1	18	Assam	1.25E+09	1.16E+10	300	2.03E+11	3.16E+09
+Barpeta	4	18	Assam	1.11E+09	8.84E+09	303	1.47E+11	2.90E+09
+Baksa	25	18	Assam	3.75E+08	8.30E+09	324	1.48E+11	8.46E+08
+Kamrup	22	18	Assam	4.08E+09	1.37E+10	321	1.74E+11	7.26E+09
+Kamrup Metropolitan	23	18	Assam	7.74E+09	1.11E+10	322	6.74E+10	9.24E+09
+Nalbari	24	18	Assam	5.32E+08	4.08E+09	323	6.38E+10	1.70E+09
+Darrang	26	18	Assam	1.10E+09	6.53E+09	325	9.41E+10	2.07E+09
+Udalguri	27	18	Assam	1.00E+09	8.43E+09	326	1.24E+11	3.22E+09
+Leh (ladakh)	3	1	Jammu & Kashmir	2.71E+09	2.56E+11	3	5.01E+12	6.90E+08
+Data Not Available	99	99	Jammu & Kashmir	2.20E+10	3.32E+11	0	4.81E+12	4.21E+10
+Punch	5	1	Jammu & Kashmir	5.59E+08	8.97E+09	5	1.32E+11	2.49E+09
+Kupwara	1	1	Jammu & Kashmir	6.18E+07	6.51E+09	1	1.03E+11	6.72E+07
+Baramula	8	1	Jammu & Kashmir	1.17E+09	7.59E+09	8	9.63E+10	2.26E+09
+Bandipore	9	1	Jammu & Kashmir	8.26E+07	8.04E+09	9	1.18E+11	5.74E+07
+Ganderbal	11	1	Jammu & Kashmir	1.98E+07	3.80E+09	11	5.44E+10	0
+Srinagar	10	1	Jammu & Kashmir	2.43E+09	6.03E+09	10	5.66E+10	3.43E+09
+Badgam	2	1	Jammu & Kashmir	1.34E+09	5.80E+09	2	6.85E+10	2.13E+09
+Pulwama	12	1	Jammu & Kashmir	1.39E+08	2.45E+09	12	3.38E+10	7.86E+08
+Shupiyan	13	1	Jammu & Kashmir	1.30E+07	1.88E+09	13	2.94E+10	2.07E+07
+Rajouri	6	1	Jammu & Kashmir	5.49E+08	7.18E+09	6	1.08E+11	1.63E+09
+Kulgam	15	1	Jammu & Kashmir	3.95E+07	4.49E+09	15	6.48E+10	6.28E+07
+Anantnag	14	1	Jammu & Kashmir	1.91E+08	1.07E+10	14	1.72E+11	4.42E+08
+Kargil	4	1	Jammu & Kashmir	3.58E+08	5.12E+10	4	8.90E+11	1.56E+07
+Kishtwar	18	1	Jammu & Kashmir	1.23E+09	3.09E+10	18	4.76E+11	1.27E+09
+Lahul & Spiti	3	2	Himachal Pradesh	4.09E+08	4.88E+10	25	8.42E+11	7.53E+07
+Chamba	1	2	Himachal Pradesh	1.67E+09	2.37E+10	23	3.53E+11	2.97E+09
+Kangra	2	2	Himachal Pradesh	5.65E+09	2.81E+10	24	3.13E+11	1.57E+10
+Kullu	4	2	Himachal Pradesh	2.41E+09	2.16E+10	26	3.32E+11	3.75E+09
+Kinnaur	12	2	Himachal Pradesh	6.75E+08	2.23E+10	34	3.84E+11	8.77E+08
+Mandi	5	2	Himachal Pradesh	3.21E+09	1.80E+10	27	2.38E+11	7.41E+09
+Hamirpur	6	2	Himachal Pradesh	1.59E+09	6.70E+09	28	6.44E+10	6.15E+09
+Solan	9	2	Himachal Pradesh	6.30E+09	1.42E+10	31	1.15E+11	1.31E+10
+Bilaspur	8	2	Himachal Pradesh	2.57E+09	7.74E+09	30	6.86E+10	7.37E+09
+Una	7	2	Himachal Pradesh	3.39E+09	9.84E+09	29	8.49E+10	8.20E+09
+Rupnagar	17	3	Punjab	8.71E+09	1.38E+10	51	8.11E+10	1.35E+10
+Shahid Bhagat Singh Nagar	5	3	Punjab	6.78E+09	1.20E+10	39	7.22E+10	1.19E+10
+Shimla	11	2	Himachal Pradesh	3.69E+09	2.21E+10	33	3.25E+11	7.55E+09
+Sirmaur	10	2	Himachal Pradesh	2.39E+09	1.28E+10	32	1.79E+11	5.24E+09
+Uttarkashi	1	5	Uttarakhand	1.41E+09	2.75E+10	56	4.85E+11	1.14E+09
+Chamoli	2	5	Uttarakhand	1.08E+09	2.72E+10	57	4.57E+11	1.66E+09
+Tehri Garhwal	4	5	Uttarakhand	3.93E+09	1.73E+10	59	2.45E+11	7.79E+09
+Rudraprayag	3	5	Uttarakhand	2.15E+08	6.30E+09	58	1.11E+11	7.45E+08
+Dehradun	5	5	Uttarakhand	1.32E+10	2.28E+10	60	2.07E+11	1.67E+10
+Garhwal	6	5	Uttarakhand	3.48E+09	2.21E+10	61	3.57E+11	8.08E+09
+Saharanpur	1	9	Uttar Pradesh	7.22E+09	2.15E+10	132	2.50E+11	1.69E+10
+Hardwar	13	5	Uttarakhand	6.96E+09	1.52E+10	68	1.63E+11	1.02E+10
+Muzaffarnagar	2	9	Uttar Pradesh	8.60E+09	2.41E+10	133	2.65E+11	2.21E+10
+Bijnor	3	9	Uttar Pradesh	4.82E+09	2.09E+10	134	2.87E+11	1.32E+10
+Almora	9	5	Uttarakhand	1.34E+09	1.22E+10	64	1.88E+11	3.78E+09
+Nainital	11	5	Uttarakhand	5.79E+09	1.94E+10	66	2.45E+11	9.27E+09
+Udham Singh Nagar	12	5	Uttarakhand	1.57E+10	2.41E+10	67	1.63E+11	2.24E+10
+Rampur	5	9	Uttar Pradesh	4.40E+09	1.36E+10	136	1.63E+11	9.49E+09
+Moradabad	4	9	Uttar Pradesh	1.02E+10	2.32E+10	135	2.36E+11	1.87E+10
+Bareilly	19	9	Uttar Pradesh	9.09E+09	2.22E+10	150	2.39E+11	1.56E+10
+Budaun	18	9	Uttar Pradesh	3.05E+09	2.01E+10	149	3.33E+11	6.46E+09
+Jyotiba Phule Nagar	6	9	Uttar Pradesh	2.56E+09	1.11E+10	137	1.48E+11	8.18E+09
+Bulandshahr	11	9	Uttar Pradesh	6.78E+09	2.04E+10	142	2.29E+11	1.77E+10
+Ghaziabad	9	9	Uttar Pradesh	2.00E+10	2.63E+10	140	1.26E+11	2.63E+10
+Meerut	7	9	Uttar Pradesh	1.47E+10	2.39E+10	138	1.68E+11	2.24E+10
+Baghpat	8	9	Uttar Pradesh	2.31E+09	7.60E+09	139	8.32E+10	6.84E+09
+Sonipat	8	6	Haryana	1.91E+10	2.60E+10	76	1.31E+11	2.60E+10
+North West	1	7	NCT of Delhi	2.00E+10	2.01E+10	90	2.71E+10	2.01E+10
+Gautam Buddha Nagar	10	9	Uttar Pradesh	1.83E+10	2.24E+10	141	9.05E+10	2.24E+10
+Aligarh	12	9	Uttar Pradesh	7.07E+09	2.12E+10	143	2.42E+11	1.64E+10
+Faridabad	20	6	Haryana	1.81E+10	1.96E+10	88	5.32E+10	1.96E+10
+Palwal	21	6	Haryana	7.56E+09	1.26E+10	89	8.26E+10	1.26E+10
+Mewat	19	6	Haryana	4.15E+09	1.03E+10	87	9.01E+10	1.01E+10
+Gurgaon	18	6	Haryana	2.30E+10	2.53E+10	86	7.58E+10	2.53E+10
+South	9	7	NCT of Delhi	1.36E+10	1.36E+10	98	1.60E+10	1.36E+10
+New Delhi	5	7	NCT of Delhi	2.42E+09	2.42E+09	94	2.42E+09	2.42E+09
+South West	8	7	NCT of Delhi	2.10E+10	2.11E+10	97	2.57E+10	2.11E+10
+Central	6	7	NCT of Delhi	9.48E+08	9.48E+08	95	9.57E+08	9.48E+08
+East	4	7	NCT of Delhi	4.11E+09	4.11E+09	93	4.11E+09	4.11E+09
+North East	3	7	NCT of Delhi	3.52E+09	3.52E+09	92	3.94E+09	3.52E+09
+North	2	7	NCT of Delhi	4.06E+09	4.06E+09	91	4.36E+09	4.06E+09
+West	7	7	NCT of Delhi	7.20E+09	7.20E+09	96	7.27E+09	7.20E+09
+Jhajjar	15	6	Haryana	8.92E+09	1.74E+10	83	1.18E+11	1.74E+10
+Alwar	6	8	Rajasthan	1.54E+10	4.99E+10	104	5.15E+11	4.52E+10
+Rewari	17	6	Haryana	1.17E+10	1.73E+10	85	9.34E+10	1.73E+10
+Rohtak	14	6	Haryana	9.16E+09	1.65E+10	82	1.04E+11	1.65E+10
+Bhiwani	13	6	Haryana	1.36E+10	3.50E+10	81	2.87E+11	3.49E+10
+Jind	9	6	Haryana	1.30E+10	2.43E+10	77	1.62E+11	2.43E+10
+Panipat	7	6	Haryana	1.70E+10	1.97E+10	75	7.64E+10	1.97E+10
+Karnal	6	6	Haryana	2.91E+10	3.56E+10	74	1.63E+11	3.56E+10
+Kaithal	5	6	Haryana	1.55E+10	2.38E+10	73	1.33E+11	2.38E+10
+Kurukshetra	4	6	Haryana	2.06E+10	2.35E+10	72	9.64E+10	2.35E+10
+Patiala	14	3	Punjab	3.30E+10	4.31E+10	48	2.01E+11	4.31E+10
+Ambala	2	6	Haryana	1.84E+10	2.18E+10	70	9.55E+10	2.18E+10
+Yamunanagar	3	6	Haryana	1.51E+10	2.00E+10	71	1.13E+11	1.96E+10
+Panchkula	1	6	Haryana	6.49E+09	9.20E+09	69	5.25E+10	8.35E+09
+Sahibzada Ajit Singh Nagar	18	3	Punjab	1.58E+10	1.80E+10	52	6.94E+10	1.79E+10
+Chandigarh	1	4	Chandigarh	6.92E+09	6.92E+09	55	7.35E+09	6.92E+09
+Fatehgarh Sahib	6	3	Punjab	9.90E+09	1.36E+10	40	6.96E+10	1.36E+10
+Ludhiana	7	3	Punjab	4.69E+10	5.62E+10	41	2.14E+11	5.62E+10
+Sangrur	19	3	Punjab	2.42E+10	3.83E+10	53	2.21E+11	3.83E+10
+Barnala	20	3	Punjab	8.35E+09	1.45E+10	54	9.45E+10	1.45E+10
+Moga	8	3	Punjab	1.95E+10	2.71E+10	42	1.44E+11	2.71E+10
+Bathinda	12	3	Punjab	1.84E+10	3.25E+10	46	2.22E+11	3.25E+10
+Faridkot	11	3	Punjab	9.55E+09	1.55E+10	45	9.36E+10	1.55E+10
+Mansa	13	3	Punjab	5.88E+09	1.65E+10	47	1.43E+11	1.65E+10
+Fatehabad	10	6	Haryana	1.34E+10	2.34E+10	78	1.52E+11	2.34E+10
+Sirsa	11	6	Haryana	1.33E+10	3.16E+10	79	2.94E+11	3.13E+10
+Hisar	12	6	Haryana	1.78E+10	3.61E+10	80	2.59E+11	3.61E+10
+Mahendragarh	16	6	Haryana	7.17E+09	1.61E+10	84	1.20E+11	1.61E+10
+Jhunjhunun	5	8	Rajasthan	1.41E+10	4.02E+10	103	3.78E+11	3.96E+10
+Churu	4	8	Rajasthan	9.56E+09	6.34E+10	102	9.15E+11	4.07E+10
+Sikar	13	8	Rajasthan	1.57E+10	4.87E+10	111	4.99E+11	4.70E+10
+Hanumangarh	2	8	Rajasthan	1.33E+10	5.31E+10	100	6.78E+11	4.18E+10
+Bikaner	3	8	Rajasthan	1.37E+10	1.17E+11	101	1.90E+12	3.71E+10
+Ganganagar	1	8	Rajasthan	1.64E+10	6.18E+10	99	7.02E+11	5.42E+10
+Muktsar	10	3	Punjab	1.45E+10	2.57E+10	44	1.83E+11	2.57E+10
+Firozpur	9	3	Punjab	3.45E+10	5.47E+10	43	3.50E+11	5.47E+10
+Amritsar	15	3	Punjab	3.71E+10	4.21E+10	49	1.45E+11	4.21E+10
+Gurdaspur	1	3	Punjab	3.16E+10	4.19E+10	35	1.85E+11	4.11E+10
+Tarn Taran	16	3	Punjab	2.48E+10	3.05E+10	50	1.40E+11	3.05E+10
+Kapurthala	2	3	Punjab	1.13E+10	1.76E+10	36	9.01E+10	1.76E+10
+Jalandhar	3	3	Punjab	2.93E+10	3.70E+10	37	1.45E+11	3.70E+10
+Hoshiarpur	4	3	Punjab	1.17E+10	2.62E+10	38	1.72E+11	2.44E+10
+Kathua	7	1	Jammu & Kashmir	4.75E+09	1.31E+10	7	1.26E+11	8.15E+09
+Samba	22	1	Jammu & Kashmir	3.69E+09	7.37E+09	22	5.26E+10	6.51E+09
+Jammu	21	1	Jammu & Kashmir	1.88E+10	2.49E+10	21	1.09E+11	2.37E+10
+Udhampur	19	1	Jammu & Kashmir	2.39E+09	1.07E+10	19	1.25E+11	4.31E+09
+Doda	16	1	Jammu & Kashmir	6.68E+08	7.56E+09	16	1.15E+11	1.30E+09
+Ramban	17	1	Jammu & Kashmir	2.00E+08	3.87E+09	17	5.86E+10	5.69E+08
+Reasi	20	1	Jammu & Kashmir	1.80E+09	9.38E+09	20	1.23E+11	2.88E+09
+Jaisalmer	16	8	Rajasthan	8.79E+09	1.31E+11	114	2.60E+12	1.70E+10
+Jodhpur	15	8	Rajasthan	2.10E+10	1.04E+11	113	1.46E+12	5.25E+10
+Nagaur	14	8	Rajasthan	1.37E+10	8.29E+10	112	1.12E+12	5.28E+10
+Barmer	17	8	Rajasthan	9.95E+09	1.07E+11	115	1.93E+12	2.20E+10
+Pali	20	8	Rajasthan	1.10E+10	6.13E+10	118	7.65E+11	4.37E+10
+Jalor	18	8	Rajasthan	3.84E+09	4.55E+10	116	7.02E+11	1.94E+10
+Sirohi	19	8	Rajasthan	7.18E+09	2.73E+10	117	3.38E+11	1.83E+10
+Udaipur	32	8	Rajasthan	1.39E+10	5.78E+10	130	7.46E+11	2.91E+10
+Banas Kantha	2	24	Gujarat	1.30E+10	5.90E+10	469	7.19E+11	4.67E+10
+Kachchh	1	24	Gujarat	2.98E+10	1.83E+11	468	3.14E+12	5.86E+10
+Jamnagar	10	24	Gujarat	3.39E+10	7.53E+10	477	8.36E+11	7.08E+10
+Porbandar	11	24	Gujarat	9.74E+09	1.75E+10	478	1.81E+11	1.69E+10
+Rajkot	9	24	Gujarat	4.53E+10	8.90E+10	476	7.98E+11	8.79E+10
+Junagadh	12	24	Gujarat	4.65E+10	7.20E+10	479	6.28E+11	6.86E+10
+Amreli	13	24	Gujarat	2.25E+10	5.51E+10	480	5.64E+11	5.43E+10
+Surendranagar	8	24	Gujarat	2.00E+10	6.43E+10	475	7.33E+11	5.87E+10
+Bhavnagar	14	24	Gujarat	2.92E+10	6.36E+10	481	5.99E+11	6.21E+10
+Ahmadabad	7	24	Gujarat	4.04E+10	7.09E+10	474	5.71E+11	6.56E+10
+Patan	3	24	Gujarat	5.29E+09	2.87E+10	470	3.95E+11	1.98E+10
+Mahesana	4	24	Gujarat	2.46E+10	4.25E+10	471	3.06E+11	4.25E+10
+Gandhinagar	6	24	Gujarat	2.75E+10	3.24E+10	473	1.47E+11	3.24E+10
+Sabar Kantha	5	24	Gujarat	1.26E+10	4.69E+10	472	5.02E+11	4.36E+10
+Dungarpur	26	8	Rajasthan	1.96E+09	1.70E+10	124	2.44E+11	8.32E+09
+Kheda	16	24	Gujarat	1.22E+10	3.02E+10	483	2.77E+11	3.01E+10
+Panch Mahals	17	24	Gujarat	6.55E+09	3.02E+10	484	3.58E+11	2.80E+10
+Vadodara	19	24	Gujarat	3.25E+10	6.29E+10	486	5.10E+11	5.95E+10
+Anand	15	24	Gujarat	1.51E+10	2.60E+10	482	2.06E+11	2.48E+10
+Bharuch	21	24	Gujarat	4.47E+10	6.37E+10	488	3.78E+11	6.34E+10
+Narmada	20	24	Gujarat	3.03E+09	1.44E+10	487	1.98E+11	1.08E+10
+Nandurbar	1	27	Maharashtra	6.02E+09	3.02E+10	497	4.07E+11	2.14E+10
+Alirajpur	48	23	Madhya Pradesh	1.40E+09	1.41E+10	465	2.18E+11	5.08E+09
+Jhabua	47	23	Madhya Pradesh	2.01E+09	1.62E+10	464	2.20E+11	1.09E+10
+Dohad	18	24	Gujarat	2.25E+09	1.74E+10	485	2.38E+11	1.21E+10
+Banswara	27	8	Rajasthan	2.71E+09	2.02E+10	125	2.91E+11	1.01E+10
+Ratlam	17	23	Madhya Pradesh	7.91E+09	2.90E+10	434	3.24E+11	2.59E+10
+Dhar	21	23	Madhya Pradesh	1.04E+10	4.58E+10	438	5.33E+11	3.74E+10
+Barwani	24	23	Madhya Pradesh	4.05E+09	2.60E+10	441	3.57E+11	1.58E+10
+West Nimar	23	23	Madhya Pradesh	7.93E+09	4.15E+10	440	5.44E+11	3.03E+10
+Indore	22	23	Madhya Pradesh	2.46E+10	4.01E+10	439	2.62E+11	3.87E+10
+East Nimar	49	23	Madhya Pradesh	5.41E+09	3.42E+10	466	4.92E+11	1.66E+10
+Dewas	20	23	Madhya Pradesh	9.96E+09	3.82E+10	437	4.58E+11	2.89E+10
+Ujjain	18	23	Madhya Pradesh	1.22E+10	3.97E+10	435	4.09E+11	3.94E+10
+Sehore	28	23	Madhya Pradesh	6.37E+09	3.29E+10	445	4.32E+11	2.37E+10
+Shajapur	19	23	Madhya Pradesh	9.51E+09	3.82E+10	436	4.17E+11	3.67E+10
+Rajgarh	25	23	Madhya Pradesh	9.40E+09	3.71E+10	442	4.10E+11	3.55E+10
+Mandsaur	16	23	Madhya Pradesh	7.41E+09	3.21E+10	433	3.82E+11	2.93E+10
+Pratapgarh	33	8	Rajasthan	2.02E+09	1.80E+10	131	2.77E+11	6.97E+09
+Jhalawar	31	8	Rajasthan	5.72E+09	3.08E+10	129	4.24E+11	2.20E+10
+Kota	29	8	Rajasthan	1.97E+10	4.11E+10	127	3.60E+11	3.60E+10
+Baran	30	8	Rajasthan	5.05E+09	2.99E+10	128	4.44E+11	1.57E+10
+Chittaurgarh	28	8	Rajasthan	9.69E+09	4.02E+10	126	4.78E+11	3.08E+10
+Neemuch	15	23	Madhya Pradesh	6.67E+09	2.36E+10	432	2.73E+11	1.87E+10
+Rajsamand	25	8	Rajasthan	8.42E+09	2.79E+10	123	2.92E+11	2.32E+10
+Bhilwara	24	8	Rajasthan	8.41E+09	5.10E+10	122	6.50E+11	3.59E+10
+Ajmer	21	8	Rajasthan	1.87E+10	5.30E+10	119	5.55E+11	4.27E+10
+Jaipur	12	8	Rajasthan	5.18E+10	9.69E+10	110	7.24E+11	9.04E+10
+Tonk	22	8	Rajasthan	4.13E+09	3.17E+10	120	4.71E+11	1.64E+10
+Dausa	11	8	Rajasthan	5.22E+09	2.04E+10	109	2.14E+11	1.92E+10
+Sawai Madhopur	10	8	Rajasthan	3.51E+09	2.19E+10	108	3.17E+11	1.13E+10
+Bundi	23	8	Rajasthan	6.03E+09	2.78E+10	121	3.60E+11	1.85E+10
+Sheopur	1	23	Madhya Pradesh	1.34E+09	2.24E+10	418	4.17E+11	3.96E+09
+Shivpuri	6	23	Madhya Pradesh	4.44E+09	4.11E+10	423	6.50E+11	1.42E+10
+Guna	41	23	Madhya Pradesh	8.51E+09	3.34E+10	458	4.10E+11	2.37E+10
+Gwalior	4	23	Madhya Pradesh	1.31E+10	3.23E+10	421	3.43E+11	2.54E+10
+Morena	2	23	Madhya Pradesh	4.99E+09	2.28E+10	419	3.30E+11	1.32E+10
+Dhaulpur	8	8	Rajasthan	2.21E+09	1.28E+10	106	1.94E+11	5.64E+09
+Karauli	9	8	Rajasthan	2.97E+09	2.05E+10	107	3.09E+11	1.00E+10
+Bharatpur	7	8	Rajasthan	6.62E+09	2.68E+10	105	3.03E+11	2.29E+10
+Mathura	14	9	Uttar Pradesh	1.49E+10	2.80E+10	145	2.10E+11	2.71E+10
+Mahamaya Nagar	13	9	Uttar Pradesh	3.08E+09	1.02E+10	144	1.16E+11	8.79E+09
+Agra	15	9	Uttar Pradesh	1.83E+10	3.38E+10	146	2.69E+11	3.19E+10
+Bhind	3	23	Madhya Pradesh	4.44E+09	2.09E+10	420	3.15E+11	1.29E+10
+Firozabad	16	9	Uttar Pradesh	6.15E+09	1.56E+10	147	1.66E+11	1.40E+10
+Etah	70	9	Uttar Pradesh	1.57E+09	1.06E+10	201	1.70E+11	4.45E+09
+Kansiram Nagar	71	9	Uttar Pradesh	1.25E+09	8.06E+09	202	1.31E+11	3.21E+09
+Shahjahanpur	21	9	Uttar Pradesh	5.27E+09	2.07E+10	152	2.99E+11	8.48E+09
+Farrukhabad	28	9	Uttar Pradesh	2.95E+09	1.08E+10	159	1.44E+11	7.11E+09
+Mainpuri	17	9	Uttar Pradesh	1.75E+09	1.14E+10	148	1.87E+11	5.83E+09
+Etawah	30	9	Uttar Pradesh	2.28E+09	1.07E+10	161	1.62E+11	6.18E+09
+Kannauj	29	9	Uttar Pradesh	1.31E+09	8.55E+09	160	1.38E+11	3.59E+09
+Auraiya	31	9	Uttar Pradesh	5.26E+09	1.26E+10	162	1.36E+11	1.02E+10
+Jalaun	34	9	Uttar Pradesh	3.54E+09	2.08E+10	165	3.12E+11	1.42E+10
+Datia	5	23	Madhya Pradesh	2.83E+09	1.02E+10	422	1.25E+11	9.12E+09
+Tikamgarh	7	23	Madhya Pradesh	4.65E+09	2.47E+10	424	3.45E+11	1.90E+10
+Jhansi	35	9	Uttar Pradesh	8.84E+09	2.67E+10	166	3.51E+11	1.74E+10
+Lalitpur	36	9	Uttar Pradesh	1.83E+09	1.90E+10	167	3.34E+11	4.04E+09
+Hamirpur	37	9	Uttar Pradesh	1.94E+09	1.67E+10	168	2.87E+11	6.29E+09
+Mahoba	38	9	Uttar Pradesh	1.60E+09	1.15E+10	169	1.90E+11	4.24E+09
+Chhatarpur	8	23	Madhya Pradesh	6.99E+09	3.86E+10	425	5.75E+11	2.19E+10
+Sagar	10	23	Madhya Pradesh	1.06E+10	4.87E+10	427	6.80E+11	2.79E+10
+Damoh	11	23	Madhya Pradesh	4.75E+09	3.13E+10	428	4.94E+11	1.47E+10
+Raisen	29	23	Madhya Pradesh	7.94E+09	3.96E+10	446	5.48E+11	2.01E+10
+Vidisha	26	23	Madhya Pradesh	4.94E+09	3.13E+10	443	4.67E+11	1.03E+10
+Ashoknagar	42	23	Madhya Pradesh	2.29E+09	1.95E+10	459	2.99E+11	7.69E+09
+Bhopal	27	23	Madhya Pradesh	1.76E+10	2.75E+10	444	1.80E+11	2.56E+10
+Harda	31	23	Madhya Pradesh	3.85E+09	1.69E+10	448	2.20E+11	1.19E+10
+Hoshangabad	32	23	Madhya Pradesh	1.08E+10	3.63E+10	449	4.25E+11	2.48E+10
+Betul	30	23	Madhya Pradesh	6.85E+09	4.42E+10	447	6.55E+11	1.46E+10
+Chhindwara	38	23	Madhya Pradesh	1.03E+10	5.58E+10	455	7.58E+11	2.84E+10
+Narsimhapur	35	23	Madhya Pradesh	1.04E+10	3.10E+10	452	3.28E+11	2.60E+10
+Jabalpur	34	23	Madhya Pradesh	1.94E+10	3.77E+10	451	3.32E+11	3.17E+10
+Seoni	39	23	Madhya Pradesh	3.53E+09	3.61E+10	456	5.79E+11	1.08E+10
+Mandla	37	23	Madhya Pradesh	3.13E+09	2.88E+10	454	4.88E+11	5.10E+09
+Balaghat	40	23	Madhya Pradesh	5.79E+09	3.93E+10	457	6.03E+11	1.37E+10
+Dindori	36	23	Madhya Pradesh	1.40E+09	1.95E+10	453	3.65E+11	6.88E+08
+Katni	33	23	Madhya Pradesh	6.26E+09	2.49E+10	450	3.24E+11	1.42E+10
+Umaria	14	23	Madhya Pradesh	2.46E+09	1.77E+10	431	2.94E+11	4.40E+09
+Panna	9	23	Madhya Pradesh	2.10E+09	2.61E+10	426	4.55E+11	5.16E+09
+Satna	12	23	Madhya Pradesh	9.78E+09	3.69E+10	429	4.69E+11	2.54E+10
+Banda	39	9	Uttar Pradesh	2.28E+09	1.77E+10	170	2.92E+11	5.87E+09
+Chitrakoot	40	9	Uttar Pradesh	1.45E+09	1.18E+10	171	1.89E+11	3.71E+09
+Shahdol	43	23	Madhya Pradesh	4.34E+09	2.34E+10	460	3.49E+11	7.07E+09
+Sidhi	45	23	Madhya Pradesh	2.29E+09	1.91E+10	462	2.87E+11	6.84E+09
+Rewa	13	23	Madhya Pradesh	6.57E+09	2.97E+10	430	3.81E+11	1.94E+10
+Kaushambi	43	9	Uttar Pradesh	3.90E+09	1.13E+10	174	1.24E+11	9.37E+09
+Allahabad	44	9	Uttar Pradesh	1.68E+10	3.51E+10	175	3.39E+11	2.97E+10
+Sant Ravi Das Nagar(bhadohi)	67	9	Uttar Pradesh	3.66E+09	7.06E+09	198	6.79E+10	7.02E+09
+Mirzapur	68	9	Uttar Pradesh	5.57E+09	2.08E+10	199	2.95E+11	1.16E+10
+Singrauli	46	23	Madhya Pradesh	1.05E+10	2.95E+10	463	3.78E+11	1.37E+10
+Koriya	1	22	Chhattisgarh	5.60E+09	2.69E+10	400	3.98E+11	6.21E+09
+Anuppur	44	23	Madhya Pradesh	5.10E+09	1.76E+10	461	2.29E+11	8.11E+09
+Kabeerdham	8	22	Chhattisgarh	1.45E+09	1.61E+10	407	2.74E+11	1.96E+09
+Bilaspur	7	22	Chhattisgarh	8.96E+09	3.86E+10	406	4.96E+11	1.65E+10
+Korba	5	22	Chhattisgarh	1.32E+10	3.48E+10	404	3.88E+11	1.61E+10
+Surguja	2	22	Chhattisgarh	5.95E+09	5.72E+10	401	1.00E+12	7.75E+09
+Sonbhadra	69	9	Uttar Pradesh	1.19E+10	3.36E+10	200	4.56E+11	1.54E+10
+Garhwa	1	20	Jharkhand	5.50E+08	1.33E+10	346	2.71E+11	1.08E+09
+Jashpur	3	22	Chhattisgarh	1.38E+09	1.98E+10	402	3.75E+11	1.31E+09
+Raigarh	4	22	Chhattisgarh	4.88E+09	2.96E+10	403	4.44E+11	1.05E+10
+Gumla	21	20	Jharkhand	5.52E+08	1.70E+10	366	3.44E+11	6.09E+08
+Simdega	22	20	Jharkhand	3.00E+08	1.19E+10	367	2.40E+11	4.70E+08
+Sundargarh	5	21	Odisha	1.33E+10	4.58E+10	374	6.08E+11	1.99E+10
+Ranchi	19	20	Jharkhand	8.77E+09	2.44E+10	364	2.91E+11	1.28E+10
+Lohardaga	11	20	Jharkhand	3.27E+08	5.04E+09	356	9.35E+10	6.02E+08
+Latehar	14	20	Jharkhand	3.67E+08	1.34E+10	359	2.66E+11	3.99E+08
+Chatra	2	20	Jharkhand	8.44E+08	1.22E+10	347	2.22E+11	1.23E+09
+Palamu	13	20	Jharkhand	9.13E+08	1.46E+10	358	2.79E+11	1.47E+09
+Rohtas	32	10	Bihar	3.01E+09	1.61E+10	234	2.49E+11	6.42E+09
+Kaimur (bhabua)	31	10	Bihar	1.37E+09	1.28E+10	233	2.18E+11	4.48E+09
+Aurangabad	33	10	Bihar	1.04E+09	1.17E+10	235	2.05E+11	2.69E+09
+Gaya	34	10	Bihar	3.18E+09	1.89E+10	236	2.89E+11	5.48E+09
+Bhojpur	29	10	Bihar	9.63E+08	8.73E+09	231	1.40E+11	2.31E+09
+Arwal	38	10	Bihar	1.91E+07	2.12E+09	240	3.88E+10	5.23E+07
+Jehanabad	37	10	Bihar	4.12E+08	3.62E+09	239	5.41E+10	1.32E+09
+Patna	28	10	Bihar	1.29E+10	2.29E+10	230	1.90E+11	1.73E+10
+Buxar	30	10	Bihar	7.23E+08	6.57E+09	232	1.06E+11	2.31E+09
+Ghazipur	64	9	Uttar Pradesh	2.67E+09	1.48E+10	195	2.20E+11	9.55E+09
+Chandauli	65	9	Uttar Pradesh	4.63E+09	1.32E+10	196	1.67E+11	8.84E+09
+Varanasi	66	9	Uttar Pradesh	1.49E+10	1.90E+10	197	1.05E+11	1.90E+10
+Jaunpur	63	9	Uttar Pradesh	4.00E+09	1.86E+10	194	2.80E+11	1.11E+10
+Pratapgarh	42	9	Uttar Pradesh	4.14E+09	1.81E+10	173	2.45E+11	1.49E+10
+Azamgarh	60	9	Uttar Pradesh	3.62E+09	1.90E+10	191	2.85E+11	9.99E+09
+Ambedkar Nagar	47	9	Uttar Pradesh	2.53E+09	1.10E+10	178	1.52E+11	8.32E+09
+Sultanpur	48	9	Uttar Pradesh	4.33E+09	2.04E+10	179	3.03E+11	1.43E+10
+Faizabad	46	9	Uttar Pradesh	7.62E+09	1.70E+10	177	1.85E+11	1.53E+10
+Basti	54	9	Uttar Pradesh	3.33E+09	1.37E+10	185	1.93E+11	8.24E+09
+Gonda	52	9	Uttar Pradesh	3.71E+09	1.78E+10	183	2.76E+11	9.46E+09
+Sant Kabir Nagar	55	9	Uttar Pradesh	1.63E+09	7.29E+09	186	1.03E+11	4.80E+09
+Gorakhpur	57	9	Uttar Pradesh	1.11E+10	2.24E+10	188	2.15E+11	1.92E+10
+Maharajganj	56	9	Uttar Pradesh	1.53E+09	1.14E+10	187	1.87E+11	2.96E+09
+Kushinagar	58	9	Uttar Pradesh	2.34E+09	1.23E+10	189	1.81E+11	6.40E+09
+Deoria	59	9	Uttar Pradesh	2.99E+09	1.20E+10	190	1.64E+11	7.71E+09
+Mau	61	9	Uttar Pradesh	3.56E+09	9.55E+09	192	1.10E+11	8.59E+09
+Ballia	62	9	Uttar Pradesh	2.53E+09	1.31E+10	193	1.86E+11	8.38E+09
+Siwan	16	10	Bihar	6.98E+08	8.48E+09	218	1.36E+11	2.27E+09
+Saran (chhapra)	17	10	Bihar	2.26E+09	1.15E+10	219	1.52E+11	4.97E+09
+Muzaffarpur	14	10	Bihar	3.62E+09	1.47E+10	216	1.96E+11	7.49E+09
+Gopalganj	15	10	Bihar	7.31E+08	8.03E+09	217	1.25E+11	2.63E+09
+Purba Champaran	2	10	Bihar	1.58E+09	1.53E+10	204	2.42E+11	3.24E+09
+Pashchim Champaran	1	10	Bihar	1.59E+09	1.81E+10	203	3.14E+11	2.30E+09
+Siddharth Nagar	53	9	Uttar Pradesh	1.10E+09	1.04E+10	184	1.94E+11	2.45E+09
+Balrampur	51	9	Uttar Pradesh	1.67E+09	1.23E+10	182	2.29E+11	2.66E+09
+Shrawasti	50	9	Uttar Pradesh	2.91E+08	8.43E+09	181	1.74E+11	1.27E+09
+Bahraich	49	9	Uttar Pradesh	2.39E+09	1.64E+10	180	2.91E+11	5.09E+09
+Kheri	22	9	Uttar Pradesh	3.89E+09	2.98E+10	153	4.81E+11	1.00E+10
+Sitapur	23	9	Uttar Pradesh	3.57E+09	2.31E+10	154	3.61E+11	9.18E+09
+Bara Banki	45	9	Uttar Pradesh	3.12E+09	1.67E+10	176	2.49E+11	1.04E+10
+Lucknow	26	9	Uttar Pradesh	2.32E+10	3.11E+10	157	1.67E+11	3.08E+10
+Hardoi	24	9	Uttar Pradesh	5.86E+09	2.75E+10	155	3.85E+11	1.70E+10
+Rae Bareli	27	9	Uttar Pradesh	5.78E+09	2.28E+10	158	2.86E+11	1.75E+10
+Fatehpur	41	9	Uttar Pradesh	2.86E+09	1.73E+10	172	2.66E+11	8.18E+09
+Unnao	25	9	Uttar Pradesh	5.40E+09	2.17E+10	156	3.03E+11	1.31E+10
+Kanpur Nagar	33	9	Uttar Pradesh	1.62E+10	2.59E+10	164	1.92E+11	2.20E+10
+Kanpur Dehat	32	9	Uttar Pradesh	2.17E+09	1.38E+10	163	2.15E+11	8.08E+09
+Pilibhit	20	9	Uttar Pradesh	1.82E+09	1.37E+10	151	2.16E+11	2.92E+09
+Bageshwar	8	5	Uttarakhand	4.58E+08	8.04E+09	63	1.34E+11	1.26E+09
+Champawat	10	5	Uttarakhand	7.21E+07	5.14E+09	65	9.22E+10	2.01E+08
+Pithoragarh	7	5	Uttarakhand	1.36E+09	2.52E+10	62	4.23E+11	1.49E+09
+North	1	11	Sikkim	2.30E+08	1.45E+10	241	2.71E+11	1.79E+07
+East	4	11	Sikkim	5.84E+08	3.92E+09	244	5.84E+10	1.66E+09
+Jalpaiguri	2	19	West Bengal	1.00E+10	3.19E+10	328	3.98E+11	1.93E+10
+Koch Bihar	3	19	West Bengal	3.09E+09	1.53E+10	329	2.17E+11	7.73E+09
+Darjiling	1	19	West Bengal	7.39E+09	1.81E+10	327	1.94E+11	1.18E+10
+South	3	11	Sikkim	2.46E+08	2.99E+09	243	4.46E+10	9.24E+08
+West	2	11	Sikkim	2.11E+08	4.39E+09	242	6.93E+10	8.34E+08
+Kishanganj	8	10	Bihar	6.82E+08	6.81E+09	210	1.15E+11	1.34E+09
+Uttar Dinajpur	4	19	West Bengal	3.42E+09	1.49E+10	330	1.83E+11	8.73E+09
+Purnia	9	10	Bihar	2.60E+09	1.34E+10	211	1.90E+11	5.54E+09
+Katihar	10	10	Bihar	1.61E+09	1.17E+10	212	1.77E+11	3.88E+09
+Araria	7	10	Bihar	9.57E+08	1.01E+10	209	1.69E+11	1.80E+09
+Madhubani	5	10	Bihar	1.13E+09	1.33E+10	207	2.19E+11	3.33E+09
+Sitamarhi	4	10	Bihar	1.08E+09	9.11E+09	206	1.45E+11	1.86E+09
+Darbhanga	13	10	Bihar	2.18E+09	1.01E+10	215	1.45E+11	4.86E+09
+Sheohar	3	10	Bihar	5.76E+07	1.06E+09	205	1.77E+10	1.23E+08
+Vaishali	18	10	Bihar	2.16E+09	9.30E+09	220	1.18E+11	5.46E+09
+Samastipur	19	10	Bihar	1.62E+09	1.15E+10	221	1.76E+11	4.51E+09
+Begusarai	20	10	Bihar	4.43E+09	1.07E+10	222	1.21E+11	6.83E+09
+Khagaria	21	10	Bihar	8.13E+08	5.60E+09	223	9.29E+10	1.74E+09
+Saharsa	12	10	Bihar	8.40E+08	6.36E+09	214	1.03E+11	1.92E+09
+Supaul	6	10	Bihar	7.31E+08	8.87E+09	208	1.48E+11	2.18E+09
+Madhepura	11	10	Bihar	6.33E+08	6.86E+09	213	1.10E+11	1.70E+09
+Bhagalpur	22	10	Bihar	5.14E+09	1.36E+10	224	1.55E+11	8.93E+09
+Sahibganj	7	20	Jharkhand	6.24E+08	7.50E+09	352	1.25E+11	1.16E+09
+Godda	6	20	Jharkhand	1.65E+09	8.91E+09	351	1.29E+11	3.65E+09
+Banka	23	10	Bihar	4.02E+08	1.04E+10	225	1.87E+11	1.30E+09
+Pakur	8	20	Jharkhand	4.12E+08	6.11E+09	353	9.94E+10	1.03E+09
+Dumka	17	20	Jharkhand	5.56E+08	1.22E+10	362	2.10E+11	1.19E+09
+Jamtara	18	20	Jharkhand	1.19E+09	7.11E+09	363	9.98E+10	2.61E+09
+Deoghar	5	20	Jharkhand	2.66E+09	1.05E+10	350	1.44E+11	4.32E+09
+Jamui	36	10	Bihar	6.52E+08	1.02E+10	238	1.86E+11	1.58E+09
+Giridih	4	20	Jharkhand	2.00E+09	1.75E+10	349	3.01E+11	3.57E+09
+Munger	24	10	Bihar	2.22E+09	6.73E+09	226	9.00E+10	3.34E+09
+Lakhisarai	25	10	Bihar	6.86E+08	4.70E+09	227	7.79E+10	1.47E+09
+Sheikhpura	26	10	Bihar	4.02E+08	2.55E+09	228	4.00E+10	1.11E+09
+Nawada	35	10	Bihar	6.95E+08	8.77E+09	237	1.46E+11	2.08E+09
+Nalanda	27	10	Bihar	1.85E+09	9.67E+09	229	1.41E+11	4.54E+09
+Kodarma	3	20	Jharkhand	9.71E+08	8.97E+09	348	1.46E+11	2.55E+09
+Hazaribagh	15	20	Jharkhand	3.10E+09	1.47E+10	360	2.10E+11	5.90E+09
+Dhanbad	9	20	Jharkhand	2.36E+10	2.86E+10	354	1.19E+11	2.70E+10
+Bokaro	10	20	Jharkhand	1.49E+10	2.33E+10	355	1.59E+11	1.95E+10
+Puruliya	14	19	West Bengal	6.65E+09	2.83E+10	340	3.52E+11	1.63E+10
+Ramgarh	16	20	Jharkhand	8.47E+09	1.22E+10	361	7.65E+10	1.06E+10
+Khunti	20	20	Jharkhand	3.61E+08	8.76E+09	365	1.63E+11	7.33E+08
+Pashchimi Singhbhum	23	20	Jharkhand	3.39E+09	2.60E+10	368	4.20E+11	4.60E+09
+Saraikela-kharsawan	24	20	Jharkhand	4.62E+09	1.33E+10	369	1.55E+11	7.26E+09
+Purbi Singhbhum	12	20	Jharkhand	9.86E+09	2.12E+10	357	2.10E+11	1.38E+10
+Pashchim Medinipur	18	19	West Bengal	1.09E+10	4.34E+10	344	5.46E+11	2.60E+10
+Bankura	13	19	West Bengal	1.19E+10	3.70E+10	339	3.90E+11	2.99E+10
+Barddhaman	9	19	West Bengal	4.82E+10	6.96E+10	335	3.86E+11	6.86E+10
+Birbhum	8	19	West Bengal	1.13E+10	2.79E+10	334	2.48E+11	2.63E+10
+Hugli	12	19	West Bengal	2.50E+10	3.36E+10	338	1.76E+11	3.33E+10
+Haora	15	19	West Bengal	1.55E+10	1.94E+10	341	8.00E+10	1.93E+10
+North 24 Parganas	11	19	West Bengal	2.94E+10	4.63E+10	337	3.24E+11	3.72E+10
+Nadia	10	19	West Bengal	1.61E+10	2.88E+10	336	2.20E+11	2.68E+10
+Kolkata	16	19	West Bengal	5.76E+09	5.76E+09	342	5.01E+09	5.76E+09
+South 24 Parganas	17	19	West Bengal	2.60E+10	4.28E+10	343	3.22E+11	3.43E+10
+Murshidabad	7	19	West Bengal	1.02E+10	2.92E+10	333	2.89E+11	2.38E+10
+Maldah	6	19	West Bengal	5.06E+09	1.79E+10	332	2.04E+11	1.20E+10
+Dakshin Dinajpur	5	19	West Bengal	1.38E+09	8.97E+09	331	1.25E+11	3.72E+09
+Purba Medinipur	19	19	West Bengal	1.04E+10	2.46E+10	345	2.36E+11	2.02E+10
+Ganjam	19	21	Odisha	1.06E+10	3.91E+10	388	5.35E+11	2.27E+10
+Puri	18	21	Odisha	4.86E+09	1.68E+10	387	2.41E+11	1.08E+10
+Khordha	17	21	Odisha	1.25E+10	2.10E+10	386	1.78E+11	1.78E+10
+Nayagarh	16	21	Odisha	1.37E+09	1.41E+10	385	2.35E+11	3.32E+09
+Cuttack	12	21	Odisha	1.64E+10	2.86E+10	381	2.46E+11	2.46E+10
+Dhenkanal	14	21	Odisha	4.66E+09	1.98E+10	383	2.73E+11	1.15E+10
+Anugul	15	21	Odisha	1.59E+10	3.59E+10	384	3.89E+11	2.00E+10
+Jajapur	13	21	Odisha	5.96E+09	1.61E+10	382	1.76E+11	1.43E+10
+Kendujhar	6	21	Odisha	5.46E+09	3.24E+10	375	4.96E+11	1.17E+10
+Kendrapara	10	21	Odisha	2.72E+09	1.14E+10	379	1.61E+11	8.24E+09
+Jagatsinghapur	11	21	Odisha	6.35E+09	1.18E+10	380	1.18E+11	1.05E+10
+Baleshwar	8	21	Odisha	7.23E+09	2.10E+10	377	2.43E+11	1.79E+10
+Bhadrak	9	21	Odisha	2.81E+09	1.15E+10	378	1.57E+11	8.12E+09
+Mayurbhanj	7	21	Odisha	4.73E+09	3.96E+10	376	6.05E+11	1.45E+10
+Debagarh	4	21	Odisha	5.18E+08	9.41E+09	373	1.76E+11	5.34E+08
+Sambalpur	3	21	Odisha	7.89E+09	3.00E+10	372	4.09E+11	1.14E+10
+Jharsuguda	2	21	Odisha	8.04E+09	1.51E+10	371	1.30E+11	1.18E+10
+Bargarh	1	21	Odisha	4.73E+09	2.51E+10	370	3.54E+11	9.66E+09
+Subarnapur	23	21	Odisha	7.21E+08	8.94E+09	392	1.43E+11	1.63E+09
+Balangir	24	21	Odisha	3.77E+09	2.64E+10	393	4.02E+11	6.20E+09
+Bauda	22	21	Odisha	1.29E+09	1.13E+10	391	1.86E+11	7.24E+08
+Kandhamal	21	21	Odisha	2.98E+09	2.81E+10	390	4.81E+11	1.48E+09
+Gajapati	20	21	Odisha	1.43E+09	1.46E+10	389	2.57E+11	1.79E+09
+Rayagada	27	21	Odisha	4.33E+09	2.89E+10	396	4.39E+11	3.93E+09
+Kalahandi	26	21	Odisha	4.96E+09	3.21E+10	395	4.71E+11	5.52E+09
+Nuapada	25	21	Odisha	1.32E+09	1.42E+10	394	2.37E+11	1.64E+09
+Raipur	11	22	Chhattisgarh	1.89E+10	6.31E+10	410	7.72E+11	3.67E+10
+Nabarangapur	28	21	Odisha	1.51E+09	1.92E+10	397	3.03E+11	2.19E+09
+Mahasamund	12	22	Chhattisgarh	1.73E+09	1.82E+10	411	2.91E+11	3.75E+09
+Janjgir-champa	6	22	Chhattisgarh	3.50E+09	1.85E+10	405	2.31E+11	1.18E+10
+Durg	10	22	Chhattisgarh	2.04E+10	5.38E+10	409	5.56E+11	4.14E+10
+Dhamtari	13	22	Chhattisgarh	2.62E+09	1.72E+10	412	2.58E+11	7.53E+09
+Rajnandgaon	9	22	Chhattisgarh	4.74E+09	3.47E+10	408	5.20E+11	1.19E+10
+Gondiya	11	27	Maharashtra	5.34E+09	2.71E+10	507	3.50E+11	1.70E+10
+Nagpur	9	27	Maharashtra	3.50E+10	7.48E+10	505	6.14E+11	6.59E+10
+Bhandara	10	27	Maharashtra	6.13E+09	2.24E+10	506	2.50E+11	1.87E+10
+Garhchiroli	12	27	Maharashtra	9.85E+09	6.07E+10	508	9.13E+11	1.41E+10
+Uttar Bastar Kanker	14	22	Chhattisgarh	3.63E+09	2.67E+10	413	4.51E+11	2.21E+09
+Chandrapur	13	27	Maharashtra	1.96E+10	6.32E+10	509	7.09E+11	4.20E+10
+Adilabad	1	28	Andhra Pradesh	2.29E+10	8.50E+10	532	1.01E+12	5.34E+10
+Narayanpur	16	22	Chhattisgarh	3.01E+09	1.65E+10	415	2.64E+11	2.24E+08
+Bijapur	18	22	Chhattisgarh	7.76E+09	3.64E+10	417	5.10E+11	4.09E+08
+Bastar	15	22	Chhattisgarh	4.66E+09	3.91E+10	414	6.13E+11	3.26E+09
+Koraput	29	21	Odisha	6.41E+09	3.63E+10	398	4.81E+11	8.36E+09
+Dakshin Bastar Dantewada	17	22	Chhattisgarh	7.80E+09	3.75E+10	416	5.21E+11	3.43E+09
+Malkangiri	30	21	Odisha	5.13E+09	2.49E+10	399	3.47E+11	2.59E+09
+Visakhapatnam	13	28	Andhra Pradesh	2.85E+10	6.69E+10	544	6.90E+11	4.26E+10
+East Godavari	14	28	Andhra Pradesh	3.42E+10	7.06E+10	545	6.72E+11	5.54E+10
+Khammam	10	28	Andhra Pradesh	2.03E+10	8.14E+10	541	9.15E+11	4.66E+10
+Warangal	9	28	Andhra Pradesh	1.93E+10	7.29E+10	540	7.39E+11	5.99E+10
+Karimnagar	3	28	Andhra Pradesh	3.95E+10	8.87E+10	534	7.01E+11	8.28E+10
+Krishna	16	28	Andhra Pradesh	2.58E+10	5.99E+10	547	5.03E+11	5.70E+10
+Nalgonda	8	28	Andhra Pradesh	1.98E+10	8.16E+10	539	7.70E+11	7.49E+10
+Guntur	17	28	Andhra Pradesh	2.50E+10	7.14E+10	548	6.51E+11	6.35E+10
+Prakasam	18	28	Andhra Pradesh	1.32E+10	8.32E+10	549	9.68E+11	5.55E+10
+West Godavari	15	28	Andhra Pradesh	1.71E+10	4.80E+10	546	4.44E+11	4.38E+10
+Yanam	1	34	Puducherry	2.38E+08	3.46E+08	634	2.49E+09	3.46E+08
+Vizianagaram	12	28	Andhra Pradesh	8.06E+09	2.97E+10	543	3.36E+11	2.42E+10
+Srikakulam	11	28	Andhra Pradesh	1.10E+10	3.47E+10	542	4.17E+11	3.13E+10
+Sri Potti Sriramulu Nellore	19	28	Andhra Pradesh	2.11E+10	7.36E+10	550	7.83E+11	6.49E+10
+Y.s.r.	20	28	Andhra Pradesh	1.58E+10	7.51E+10	551	8.35E+11	5.18E+10
+Chittoor	23	28	Andhra Pradesh	2.44E+10	9.00E+10	554	7.37E+11	8.30E+10
+Thiruvallur	1	33	Tamil Nadu	3.83E+10	4.79E+10	602	1.80E+11	4.78E+10
+Kancheepuram	3	33	Tamil Nadu	4.46E+10	6.05E+10	604	2.57E+11	6.05E+10
+Chennai	2	33	Tamil Nadu	7.99E+09	7.99E+09	603	7.83E+09	7.99E+09
+Vellore	4	33	Tamil Nadu	2.87E+10	5.32E+10	605	2.77E+11	5.19E+10
+Tiruvannamalai	5	33	Tamil Nadu	8.97E+09	3.81E+10	606	2.78E+11	3.64E+10
+Viluppuram	6	33	Tamil Nadu	1.93E+10	5.25E+10	607	3.27E+11	5.12E+10
+Puducherry	2	34	Puducherry	6.31E+09	6.58E+09	635	1.52E+10	6.58E+09
+Cuddalore	16	33	Tamil Nadu	2.76E+10	4.11E+10	617	1.80E+11	4.11E+10
+Nagappattinam	17	33	Tamil Nadu	1.46E+10	2.42E+10	618	1.21E+11	2.39E+10
+Ariyalur	15	33	Tamil Nadu	4.71E+09	1.42E+10	616	9.06E+10	1.42E+10
+Thanjavur	19	33	Tamil Nadu	2.21E+10	3.51E+10	620	1.53E+11	3.50E+10
+Karaikal	4	34	Puducherry	2.82E+09	2.94E+09	637	7.89E+09	2.94E+09
+Thiruvarur	18	33	Tamil Nadu	1.23E+10	2.15E+10	619	1.08E+11	2.10E+10
+Virudunagar	24	33	Tamil Nadu	1.46E+10	3.24E+10	625	1.82E+11	3.05E+10
+Pudukkottai	20	33	Tamil Nadu	1.00E+10	3.20E+10	621	2.07E+11	3.18E+10
+Ramanathapuram	25	33	Tamil Nadu	3.32E+09	2.04E+10	626	1.81E+11	1.81E+10
+Sivaganga	21	33	Tamil Nadu	7.12E+09	2.58E+10	622	1.84E+11	2.45E+10
+Tiruchirappalli	13	33	Tamil Nadu	2.01E+10	3.97E+10	614	1.92E+11	3.92E+10
+Madurai	22	33	Tamil Nadu	1.71E+10	3.25E+10	623	1.40E+11	3.18E+10
+Dindigul	11	33	Tamil Nadu	1.46E+10	4.12E+10	612	2.34E+11	3.70E+10
+Thoothukkudi	26	33	Tamil Nadu	1.56E+10	3.37E+10	627	1.94E+11	3.09E+10
+Tirunelveli	27	33	Tamil Nadu	2.97E+10	5.52E+10	628	2.51E+11	5.23E+10
+Kollam	13	32	Kerala	1.61E+10	2.27E+10	600	9.08E+10	2.03E+10
+Thiruvananthapuram	14	32	Kerala	2.19E+10	2.65E+10	601	8.05E+10	2.50E+10
+Kanniyakumari	28	33	Tamil Nadu	1.40E+10	1.80E+10	629	6.39E+10	1.65E+10
+Alappuzha	11	32	Kerala	1.49E+10	1.75E+10	598	4.80E+10	1.75E+10
+Pathanamthitta	12	32	Kerala	7.08E+09	1.64E+10	599	8.81E+10	1.21E+10
+Kottayam	10	32	Kerala	1.17E+10	1.96E+10	597	7.03E+10	1.95E+10
+Idukki	9	32	Kerala	3.33E+09	2.44E+10	596	1.59E+11	1.62E+10
+Theni	23	33	Tamil Nadu	5.89E+09	1.78E+10	624	1.01E+11	1.52E+10
+Tiruppur	32	33	Tamil Nadu	2.51E+10	4.66E+10	633	2.01E+11	4.51E+10
+Coimbatore	31	33	Tamil Nadu	3.96E+10	5.52E+10	632	1.78E+11	5.38E+10
+Palakkad	6	32	Kerala	1.35E+10	3.09E+10	593	1.81E+11	2.64E+10
+Thrissur	7	32	Kerala	1.94E+10	2.82E+10	594	1.21E+11	2.60E+10
+Ernakulam	8	32	Kerala	3.30E+10	3.81E+10	595	7.75E+10	3.76E+10
+Lakshadweep	1	31	Lakshadweep	7.89E+07	2.12E+09	587	3.67E+10	2.57E+08
+Dakshina Kannada	21	29	Karnataka	1.29E+10	3.03E+10	575	2.25E+11	2.57E+10
+Udupi	15	29	Karnataka	4.20E+09	1.93E+10	569	2.10E+11	1.44E+10
+Kasaragod	1	32	Kerala	3.76E+09	1.14E+10	588	1.02E+11	1.02E+10
+Kannur	2	32	Kerala	9.61E+09	2.04E+10	589	1.43E+11	1.84E+10
+Mahe	3	34	Puducherry	1.97E+08	1.98E+08	636	4.95E+08	1.98E+08
+Kozhikode	4	32	Kerala	9.58E+09	1.81E+10	591	1.06E+11	1.68E+10
+Kodagu	22	29	Karnataka	1.08E+09	1.68E+10	576	1.85E+11	6.96E+09
+Chikmagalur	16	29	Karnataka	3.50E+09	3.19E+10	570	3.69E+11	1.93E+10
+Hassan	20	29	Karnataka	5.06E+09	3.48E+10	574	3.10E+11	3.12E+10
+Mysore	23	29	Karnataka	1.47E+10	4.10E+10	577	2.65E+11	3.56E+10
+Tumkur	17	29	Karnataka	1.03E+10	6.01E+10	571	5.10E+11	5.69E+10
+Mandya	19	29	Karnataka	1.18E+10	3.41E+10	573	2.06E+11	3.28E+10
+Wayanad	3	32	Kerala	1.72E+09	1.06E+10	590	8.95E+10	7.81E+09
+Chamrajnagar	24	29	Karnataka	3.69E+09	2.64E+10	578	2.17E+11	1.58E+10
+The Nilgiris	10	33	Tamil Nadu	4.61E+09	1.48E+10	611	7.84E+10	1.10E+10
+Malappuram	5	32	Kerala	9.29E+09	2.28E+10	592	1.57E+11	1.97E+10
+Erode	9	33	Tamil Nadu	2.60E+10	4.57E+10	610	2.15E+11	3.84E+10
+Namakkal	8	33	Tamil Nadu	2.26E+10	3.45E+10	609	1.37E+11	3.43E+10
+Salem	7	33	Tamil Nadu	3.77E+10	5.50E+10	608	2.12E+11	5.36E+10
+Karur	12	33	Tamil Nadu	8.33E+09	2.20E+10	613	1.17E+11	2.18E+10
+Perambalur	14	33	Tamil Nadu	1.84E+09	1.05E+10	615	7.76E+10	1.05E+10
+Dharmapuri	29	33	Tamil Nadu	5.69E+09	2.58E+10	630	1.84E+11	2.17E+10
+Krishnagiri	30	33	Tamil Nadu	8.36E+09	3.04E+10	631	2.06E+11	2.54E+10
+Kolar	27	29	Karnataka	1.06E+10	3.00E+10	581	1.70E+11	2.98E+10
+Bangalore Rural	29	29	Karnataka	1.32E+10	2.27E+10	583	1.06E+11	2.27E+10
+Chikkaballapura	28	29	Karnataka	5.37E+09	2.53E+10	582	1.97E+11	2.43E+10
+Bangalore	18	29	Karnataka	6.14E+10	6.40E+10	572	9.35E+10	6.40E+10
+Ramanagara	30	29	Karnataka	9.39E+09	2.51E+10	584	1.40E+11	2.37E+10
+Anantapur	22	28	Andhra Pradesh	1.69E+10	9.79E+10	553	9.85E+11	8.07E+10
+Chitradurga	12	29	Karnataka	4.88E+09	4.10E+10	566	4.50E+11	3.42E+10
+Davanagere	13	29	Karnataka	5.96E+09	3.15E+10	567	3.23E+11	2.72E+10
+Bellary	11	29	Karnataka	1.25E+10	4.82E+10	565	4.48E+11	4.21E+10
+Kurnool	21	28	Andhra Pradesh	1.77E+10	9.00E+10	552	9.21E+11	6.25E+10
+Mahbubnagar	7	28	Andhra Pradesh	1.59E+10	9.58E+10	538	9.62E+11	8.08E+10
+Raichur	5	29	Karnataka	7.52E+09	4.32E+10	559	4.41E+11	3.43E+10
+Koppal	6	29	Karnataka	6.76E+09	3.04E+10	560	3.07E+11	2.64E+10
+Bagalkot	2	29	Karnataka	8.88E+09	3.71E+10	556	3.85E+11	3.34E+10
+Gadag	7	29	Karnataka	3.12E+09	2.21E+10	561	2.70E+11	1.61E+10
+Belgaum	1	29	Karnataka	2.83E+10	8.36E+10	555	8.23E+11	7.44E+10
+Dharwad	8	29	Karnataka	8.98E+09	2.63E+10	562	2.52E+11	2.27E+10
+Haveri	10	29	Karnataka	5.04E+09	2.64E+10	564	2.77E+11	2.54E+10
+Uttara Kannada	9	29	Karnataka	5.76E+09	4.27E+10	563	6.33E+11	1.66E+10
+Shimoga	14	29	Karnataka	7.04E+09	3.96E+10	568	4.77E+11	2.27E+10
+South Goa	2	30	Goa	9.29E+09	1.55E+10	586	1.19E+11	1.29E+10
+North Goa	1	30	Goa	1.34E+10	1.79E+10	585	1.05E+11	1.71E+10
+Kolhapur	34	27	Maharashtra	2.57E+10	5.41E+10	530	4.97E+11	4.59E+10
+Sindhudurg	33	27	Maharashtra	2.27E+09	2.17E+10	529	3.35E+11	1.19E+10
+Ratnagiri	32	27	Maharashtra	7.24E+09	3.89E+10	528	5.59E+11	2.27E+10
+Sangli	35	27	Maharashtra	2.40E+10	5.91E+10	531	5.38E+11	5.55E+10
+Solapur	30	27	Maharashtra	3.21E+10	1.00E+11	526	8.82E+11	9.83E+10
+Satara	31	27	Maharashtra	2.19E+10	6.56E+10	527	6.96E+11	6.04E+10
+Pune	25	27	Maharashtra	9.53E+10	1.55E+11	521	1.02E+12	1.51E+11
+Raigarh	24	27	Maharashtra	4.14E+10	6.62E+10	520	4.93E+11	6.34E+10
+Ahmadnagar	26	27	Maharashtra	3.93E+10	1.14E+11	522	1.07E+12	1.08E+11
+Bid	27	27	Maharashtra	1.15E+10	6.04E+10	523	6.65E+11	5.77E+10
+Osmanabad	29	27	Maharashtra	7.50E+09	4.09E+10	525	4.35E+11	3.96E+10
+Parbhani	17	27	Maharashtra	7.36E+09	3.53E+10	513	4.18E+11	3.39E+10
+Latur	28	27	Maharashtra	9.70E+09	3.94E+10	524	4.13E+11	3.91E+10
+Gulbarga	25	29	Karnataka	1.23E+10	5.85E+10	579	6.20E+11	5.20E+10
+Bijapur	3	29	Karnataka	6.16E+09	4.89E+10	557	5.63E+11	3.68E+10
+Yadgir	26	29	Karnataka	3.36E+09	2.51E+10	580	2.83E+11	1.98E+10
+Bidar	4	29	Karnataka	7.71E+09	3.20E+10	558	3.20E+11	3.18E+10
+Rangareddy	6	28	Andhra Pradesh	5.96E+10	8.67E+10	537	4.05E+11	8.57E+10
+Medak	4	28	Andhra Pradesh	2.42E+10	6.79E+10	535	5.62E+11	6.70E+10
+Hyderabad	5	28	Andhra Pradesh	1.11E+10	1.12E+10	536	1.05E+10	1.12E+10
+Nizamabad	2	28	Andhra Pradesh	2.81E+10	5.99E+10	533	4.96E+11	5.84E+10
+Nanded	15	27	Maharashtra	1.24E+10	5.63E+10	511	6.89E+11	5.01E+10
+Hingoli	16	27	Maharashtra	4.00E+09	2.44E+10	512	3.18E+11	2.22E+10
+Jalna	18	27	Maharashtra	7.02E+09	4.06E+10	514	4.92E+11	3.77E+10
+Buldana	4	27	Maharashtra	1.14E+10	5.45E+10	500	6.25E+11	4.88E+10
+Washim	6	27	Maharashtra	4.13E+09	2.66E+10	502	3.32E+11	2.36E+10
+Akola	5	27	Maharashtra	1.07E+10	3.50E+10	501	3.46E+11	3.36E+10
+Yavatmal	14	27	Maharashtra	1.36E+10	6.96E+10	510	8.58E+11	5.31E+10
+Amravati	7	27	Maharashtra	2.02E+10	7.03E+10	503	7.88E+11	5.44E+10
+Wardha	8	27	Maharashtra	7.57E+09	3.44E+10	504	4.02E+11	2.84E+10
+Burhanpur	50	23	Madhya Pradesh	3.92E+09	1.60E+10	467	2.14E+11	8.04E+09
+Jalgaon	3	27	Maharashtra	2.39E+10	7.71E+10	499	7.48E+11	7.26E+10
+Dhule	2	27	Maharashtra	9.95E+09	4.05E+10	498	4.79E+11	3.48E+10
+Aurangabad	19	27	Maharashtra	2.25E+10	6.78E+10	515	6.18E+11	6.49E+10
+Nashik	20	27	Maharashtra	4.64E+10	1.12E+11	516	1.04E+12	1.05E+11
+Thane	21	27	Maharashtra	6.46E+10	9.75E+10	517	6.76E+11	9.01E+10
+The Dangs	22	24	Gujarat	5.27E+08	7.00E+09	489	1.25E+11	1.21E+09
+Valsad	24	24	Gujarat	1.46E+10	2.52E+10	491	2.16E+11	2.17E+10
+Navsari	23	24	Gujarat	7.30E+09	1.68E+10	490	1.64E+11	1.64E+10
+Tapi	26	24	Gujarat	5.26E+09	1.79E+10	493	2.31E+11	1.40E+10
+Surat	25	24	Gujarat	4.38E+10	5.77E+10	492	3.19E+11	5.64E+10
+Dadra & Nagar Haveli	1	26	Dadara & Nagar Havelli	3.63E+09	5.09E+09	496	3.54E+10	4.70E+09
+Daman	2	25	Daman & Diu	2.50E+09	2.53E+09	495	5.37E+09	2.53E+09
+Diu	1	25	Daman & Diu	4.59E+08	5.09E+08	494	2.77E+09	5.09E+08
+Mumbai Suburban	22	27	Maharashtra	2.44E+10	2.44E+10	518	3.26E+10	2.44E+10
+Mumbai	23	27	Maharashtra	7.01E+09	7.04E+09	519	1.07E+10	7.04E+09

@@ -1,0 +1,642 @@
+DISTRICT	DT_CEN_CD	ST_CEN_CD	ST_NM	censuscode	sum
+South Andaman	3	35	Andaman & Nicobar Island	640	4865.1137254902
+Nicobar	1	35	Andaman & Nicobar Island	638	584.9529411765
+North & Middle Andaman	2	35	Andaman & Nicobar Island	639	2124.9725490196
+Lawangtlai	7	15	Mizoram	287	199.7843137255
+Lunglei	6	15	Mizoram	286	686.1803921569
+Saiha	8	15	Mizoram	288	129
+Dibang Valley	13	12	Arunanchal Pradesh	257	0
+Upper Siang	8	12	Arunanchal Pradesh	252	0
+Lower Dibang Valley	14	12	Arunanchal Pradesh	258	127
+Tuensang	7	13	Nagaland	267	330
+Mon	1	13	Nagaland	261	556.7019607843
+Tirap	10	12	Arunanchal Pradesh	254	431.7411764706
+Sivasagar	12	18	Assam	311	20523.4862745098
+Changlang	9	12	Arunanchal Pradesh	253	4749.0666666667
+Lohit	15	12	Arunanchal Pradesh	259	1220.0352941177
+Anjaw	16	12	Arunanchal Pradesh	260	0
+Tinsukia	10	18	Assam	309	35582.431372549
+Dhemaji	9	18	Assam	308	1698.9411764706
+Dibrugarh	11	18	Assam	310	38384.3725490197
+East Siang	7	12	Arunanchal Pradesh	251	449.9960784314
+West Siang	6	12	Arunanchal Pradesh	250	288.5176470588
+Upper Subansiri	5	12	Arunanchal Pradesh	249	168
+Jorhat	13	18	Assam	312	11928.7803921569
+Lakhimpur	8	18	Assam	307	3887.462745098
+Lower Subansiri	11	12	Arunanchal Pradesh	255	787
+Papum Pare	4	12	Arunanchal Pradesh	248	4712.9921568628
+Kurung Kumey	12	12	Arunanchal Pradesh	256	0
+East Kameng	3	12	Arunanchal Pradesh	247	114.8156862745
+West Kameng	2	12	Arunanchal Pradesh	246	1160.0509803922
+Tawang	1	12	Arunanchal Pradesh	245	196
+Sonitpur	7	18	Assam	306	14882.0431372549
+Golaghat	14	18	Assam	313	19162.1843137255
+Karbi Anglong	15	18	Assam	314	8346.7019607843
+Nagaon	6	18	Assam	305	15023.0039215686
+Marigaon	5	18	Assam	304	3914.5843137255
+Jaintia Hills	7	17	Meghalaya	299	7061.3803921569
+Dima Hasao	16	18	Assam	315	2901.2156862745
+Dimapur	5	13	Nagaland	265	7636.3294117647
+Peren	11	13	Nagaland	271	1255.2941176471
+Kohima	10	13	Nagaland	270	2613.6196078431
+Wokha	4	13	Nagaland	264	1004.0039215686
+Phek	6	13	Nagaland	266	384.1411764706
+Zunheboto	3	13	Nagaland	263	503.7882352941
+Mokokchung	2	13	Nagaland	262	1566.0352941177
+Longleng	8	13	Nagaland	268	142.6274509804
+Kiphire	9	13	Nagaland	269	225
+Senapati	1	14	Manipur	272	2281.9921568628
+Ukhrul	8	14	Manipur	279	255.3803921569
+Tamenglong	2	14	Manipur	273	959.8784313725
+Imphal East	7	14	Manipur	278	7573.7803921569
+Chandel	9	14	Manipur	280	442.7254901961
+Thoubal	5	14	Manipur	276	2679.4392156863
+Bishnupur	4	14	Manipur	275	1888.7882352941
+Churachandpur	3	14	Manipur	274	1231.4705882353
+Champhai	4	15	Mizoram	284	372.537254902
+Aizawl	3	15	Mizoram	283	3882.9921568628
+Serchhip	5	15	Mizoram	285	492.3882352941
+Mamit	1	15	Mizoram	281	296.8862745098
+Kolasib	2	15	Mizoram	282	1148.5254901961
+Hailakandi	19	18	Assam	318	2712.737254902
+Karimganj	18	18	Assam	317	3585.3215686275
+Cachar	17	18	Assam	316	9999.1960784314
+Imphal West	6	14	Manipur	277	369.3137254902
+Ri Bhoi	5	17	Meghalaya	297	6328.8196078431
+East Khasi Hills	6	17	Meghalaya	298	9641.4431372549
+West Khasi Hills	4	17	Meghalaya	296	1324.7843137255
+West Tripura	1	16	Tripura	289	30108.6156862745
+Dhalai	3	16	Tripura	291	5231.0392156863
+North Tripura	4	16	Tripura	292	7497.9058823529
+South Tripura	2	16	Tripura	290	16553.168627451
+South Garo Hills	3	17	Meghalaya	295	689.5019607843
+East Garo Hills	2	17	Meghalaya	294	1765.5921568628
+West Garo Hills	1	17	Meghalaya	293	2178.6862745098
+Dhubri	2	18	Assam	301	3635.0784313726
+Goalpara	3	18	Assam	302	8079.168627451
+Bongaigaon	20	18	Assam	319	4945.2980392157
+Chirang	21	18	Assam	320	6090.4352941177
+Kokrajhar	1	18	Assam	300	6778.0039215686
+Barpeta	4	18	Assam	303	5381.4196078431
+Baksa	25	18	Assam	324	2733.1294117647
+Kamrup	22	18	Assam	321	16616.6901960784
+Kamrup Metropolitan	23	18	Assam	322	19584.2549019608
+Nalbari	24	18	Assam	323	3825.0941176471
+Darrang	26	18	Assam	325	6004.1137254902
+Udalguri	27	18	Assam	326	7041.0274509804
+Leh (ladakh)	3	1	Jammu & Kashmir	3	3076
+Data Not Available	99	99	Jammu & Kashmir	0	63523.5294117647
+Punch	5	1	Jammu & Kashmir	5	6367.3764705882
+Kupwara	1	1	Jammu & Kashmir	1	995
+Baramula	8	1	Jammu & Kashmir	8	6569.9921568628
+Bandipore	9	1	Jammu & Kashmir	9	1170.0588235294
+Ganderbal	11	1	Jammu & Kashmir	11	15.3333333333
+Srinagar	10	1	Jammu & Kashmir	10	10075.1960784314
+Badgam	2	1	Jammu & Kashmir	2	6374.368627451
+Pulwama	12	1	Jammu & Kashmir	12	2585.1764705882
+Shupiyan	13	1	Jammu & Kashmir	13	417.0549019608
+Rajouri	6	1	Jammu & Kashmir	6	4365.568627451
+Kulgam	15	1	Jammu & Kashmir	15	566.5921568627
+Anantnag	14	1	Jammu & Kashmir	14	2850.6078431373
+Kargil	4	1	Jammu & Kashmir	4	1327
+Kishtwar	18	1	Jammu & Kashmir	18	1082
+Lahul & Spiti	3	2	Himachal Pradesh	25	96
+Chamba	1	2	Himachal Pradesh	23	6959.5254901961
+Kangra	2	2	Himachal Pradesh	24	35251.7764705882
+Kullu	4	2	Himachal Pradesh	26	9867.0549019608
+Kinnaur	12	2	Himachal Pradesh	34	3092.7843137255
+Mandi	5	2	Himachal Pradesh	27	20583.4980392157
+Hamirpur	6	2	Himachal Pradesh	28	11430.5450980392
+Solan	9	2	Himachal Pradesh	31	31371.0745098039
+Bilaspur	8	2	Himachal Pradesh	30	14400.2352941177
+Una	7	2	Himachal Pradesh	29	18153.6352941176
+Rupnagar	17	3	Punjab	51	24973.5176470588
+Shahid Bhagat Singh Nagar	5	3	Punjab	39	21089.5607843137
+Shimla	11	2	Himachal Pradesh	33	19210.937254902
+Sirmaur	10	2	Himachal Pradesh	32	15264.9843137255
+Uttarkashi	1	5	Uttarakhand	56	4502.8431372549
+Chamoli	2	5	Uttarakhand	57	5590.6745098039
+Tehri Garhwal	4	5	Uttarakhand	59	18725.568627451
+Rudraprayag	3	5	Uttarakhand	58	1922.1843137255
+Dehradun	5	5	Uttarakhand	60	41394.2352941177
+Garhwal	6	5	Uttarakhand	61	17476.5607843137
+Saharanpur	1	9	Uttar Pradesh	132	29214.1215686274
+Hardwar	13	5	Uttarakhand	68	42234.8666666667
+Muzaffarnagar	2	9	Uttar Pradesh	133	39312.7647058823
+Bijnor	3	9	Uttar Pradesh	134	20001.5215686274
+Almora	9	5	Uttarakhand	64	12444.5411764706
+Nainital	11	5	Uttarakhand	66	25762.431372549
+Udham Singh Nagar	12	5	Uttarakhand	67	49892.2823529412
+Rampur	5	9	Uttar Pradesh	136	17741.4745098039
+Moradabad	4	9	Uttar Pradesh	135	28204.9647058823
+Bareilly	19	9	Uttar Pradesh	150	24221.6784313725
+Budaun	18	9	Uttar Pradesh	149	10765.4823529412
+Jyotiba Phule Nagar	6	9	Uttar Pradesh	137	11858.9843137255
+Bulandshahr	11	9	Uttar Pradesh	142	24335.8509803921
+Ghaziabad	9	9	Uttar Pradesh	140	43376.2156862745
+Meerut	7	9	Uttar Pradesh	138	35142.6745098039
+Baghpat	8	9	Uttar Pradesh	139	10157.2823529412
+Sonipat	8	6	Haryana	76	49719.4156862745
+North West	1	7	NCT of Delhi	90	31676.7137254902
+Gautam Buddha Nagar	10	9	Uttar Pradesh	141	53165.4980392157
+Aligarh	12	9	Uttar Pradesh	143	28285.9647058824
+Faridabad	20	6	Haryana	88	37316.3215686274
+Palwal	21	6	Haryana	89	23551.1294117647
+Mewat	19	6	Haryana	87	19453.8470588235
+Gurgaon	18	6	Haryana	86	53364.737254902
+South	9	7	NCT of Delhi	98	19971.7098039216
+New Delhi	5	7	NCT of Delhi	94	3218.9294117647
+South West	8	7	NCT of Delhi	97	30939.6
+Central	6	7	NCT of Delhi	95	1261.4823529412
+East	4	7	NCT of Delhi	93	5455.5529411765
+North East	3	7	NCT of Delhi	92	4998.2666666667
+North	2	7	NCT of Delhi	91	5676.9803921569
+West	7	7	NCT of Delhi	96	10109.9607843137
+Jhajjar	15	6	Haryana	83	35852.3764705882
+Alwar	6	8	Rajasthan	104	98467.5960784314
+Rewari	17	6	Haryana	85	33384.462745098
+Rohtak	14	6	Haryana	82	32415.1764705882
+Bhiwani	13	6	Haryana	81	57412.8705882353
+Jind	9	6	Haryana	77	47906.9921568628
+Panipat	7	6	Haryana	75	38083.6039215686
+Karnal	6	6	Haryana	74	58360.8549019608
+Kaithal	5	6	Haryana	73	44684.6705882353
+Kurukshetra	4	6	Haryana	72	34956.3137254902
+Patiala	14	3	Punjab	48	67323.6941176471
+Ambala	2	6	Haryana	70	37244.7294117647
+Yamunanagar	3	6	Haryana	71	30647.6
+Panchkula	1	6	Haryana	69	17613.2588235294
+Sahibzada Ajit Singh Nagar	18	3	Punjab	52	36488.7882352941
+Chandigarh	1	4	Chandigarh	55	9643.7960784314
+Fatehgarh Sahib	6	3	Punjab	40	23202.4117647059
+Ludhiana	7	3	Punjab	41	90581.831372549
+Sangrur	19	3	Punjab	53	61989.4470588235
+Barnala	20	3	Punjab	54	26169.3803921569
+Moga	8	3	Punjab	42	41793.2431372549
+Bathinda	12	3	Punjab	46	71786.5019607843
+Faridkot	11	3	Punjab	45	25684.4156862745
+Mansa	13	3	Punjab	47	36302.3529411764
+Fatehabad	10	6	Haryana	78	42134.5294117647
+Sirsa	11	6	Haryana	79	68979.8392156863
+Hisar	12	6	Haryana	80	67465.6588235294
+Mahendragarh	16	6	Haryana	84	30492.4156862745
+Jhunjhunun	5	8	Rajasthan	103	87469.0392156863
+Churu	4	8	Rajasthan	102	71326.6156862746
+Sikar	13	8	Rajasthan	111	100560.858823529
+Hanumangarh	2	8	Rajasthan	100	75724.3098039216
+Bikaner	3	8	Rajasthan	101	81420.4705882353
+Ganganagar	1	8	Rajasthan	99	92330.9568627452
+Muktsar	10	3	Punjab	44	45862.1058823529
+Firozpur	9	3	Punjab	43	86604.337254902
+Amritsar	15	3	Punjab	49	68864.5450980392
+Gurdaspur	1	3	Punjab	35	66182.3725490196
+Tarn Taran	16	3	Punjab	50	53445.2705882353
+Kapurthala	2	3	Punjab	36	31891.7294117647
+Jalandhar	3	3	Punjab	37	62228.8117647059
+Hoshiarpur	4	3	Punjab	38	46026.6352941177
+Kathua	7	1	Jammu & Kashmir	7	17654.5882352941
+Samba	22	1	Jammu & Kashmir	22	15117.0941176471
+Jammu	21	1	Jammu & Kashmir	21	46948.6352941177
+Udhampur	19	1	Jammu & Kashmir	19	10041.1411764706
+Doda	16	1	Jammu & Kashmir	16	2320.4392156863
+Ramban	17	1	Jammu & Kashmir	17	2633.6078431373
+Reasi	20	1	Jammu & Kashmir	20	5197.2078431373
+Jaisalmer	16	8	Rajasthan	114	26784.8235294118
+Jodhpur	15	8	Rajasthan	113	117796.164705882
+Nagaur	14	8	Rajasthan	112	107768.525490196
+Barmer	17	8	Rajasthan	115	38556.4235294118
+Pali	20	8	Rajasthan	118	48727.2823529412
+Jalor	18	8	Rajasthan	116	33046.9803921569
+Sirohi	19	8	Rajasthan	117	24704.8509803921
+Udaipur	32	8	Rajasthan	130	52707.7215686275
+Banas Kantha	2	24	Gujarat	469	63025.8627450982
+Kachchh	1	24	Gujarat	468	118650.474509804
+Jamnagar	10	24	Gujarat	477	98354.5960784315
+Porbandar	11	24	Gujarat	478	17799.9254901961
+Rajkot	9	24	Gujarat	476	110167.309803922
+Junagadh	12	24	Gujarat	479	70163.368627451
+Amreli	13	24	Gujarat	480	59853.5137254902
+Surendranagar	8	24	Gujarat	475	66931.4549019609
+Bhavnagar	14	24	Gujarat	481	71128.8901960787
+Ahmadabad	7	24	Gujarat	474	94259.1137254903
+Patan	3	24	Gujarat	470	27202.9137254902
+Mahesana	4	24	Gujarat	471	50334.7490196079
+Gandhinagar	6	24	Gujarat	473	46231.231372549
+Sabar Kantha	5	24	Gujarat	472	46841.7568627451
+Dungarpur	26	8	Rajasthan	124	14883.1607843137
+Kheda	16	24	Gujarat	483	39855.3411764706
+Panch Mahals	17	24	Gujarat	484	34854.6274509804
+Vadodara	19	24	Gujarat	486	78356.1137254902
+Anand	15	24	Gujarat	482	35188.6470588235
+Bharuch	21	24	Gujarat	488	70237.8509803923
+Narmada	20	24	Gujarat	487	13290.1137254902
+Nandurbar	1	27	Maharashtra	497	29495.7333333333
+Alirajpur	48	23	Madhya Pradesh	465	2489.1019607843
+Jhabua	47	23	Madhya Pradesh	464	6121.2941176471
+Dohad	18	24	Gujarat	485	19749.968627451
+Banswara	27	8	Rajasthan	125	19850.431372549
+Ratlam	17	23	Madhya Pradesh	434	11257.831372549
+Dhar	21	23	Madhya Pradesh	438	34041.8745098039
+Barwani	24	23	Madhya Pradesh	441	11286.5411764706
+West Nimar	23	23	Madhya Pradesh	440	21652.6235294118
+Indore	22	23	Madhya Pradesh	439	58127.3333333333
+East Nimar	49	23	Madhya Pradesh	466	14807.2392156863
+Dewas	20	23	Madhya Pradesh	437	21431.0901960784
+Ujjain	18	23	Madhya Pradesh	435	22835.6784313725
+Sehore	28	23	Madhya Pradesh	445	27382.2705882353
+Shajapur	19	23	Madhya Pradesh	436	17190.0039215686
+Rajgarh	25	23	Madhya Pradesh	442	9406.631372549
+Mandsaur	16	23	Madhya Pradesh	433	22767.2039215686
+Pratapgarh	33	8	Rajasthan	131	13186.5921568627
+Jhalawar	31	8	Rajasthan	129	38168.5921568627
+Kota	29	8	Rajasthan	127	56476.9607843139
+Baran	30	8	Rajasthan	128	39778.9333333334
+Chittaurgarh	28	8	Rajasthan	126	53716.9568627451
+Neemuch	15	23	Madhya Pradesh	432	15178.7490196078
+Rajsamand	25	8	Rajasthan	123	37923.9529411765
+Bhilwara	24	8	Rajasthan	122	45113.6705882353
+Ajmer	21	8	Rajasthan	119	63049.2039215687
+Jaipur	12	8	Rajasthan	110	177127.047058823
+Tonk	22	8	Rajasthan	120	22228.631372549
+Dausa	11	8	Rajasthan	109	43727.4588235294
+Sawai Madhopur	10	8	Rajasthan	108	27383.8235294118
+Bundi	23	8	Rajasthan	121	26062.8509803921
+Sheopur	1	23	Madhya Pradesh	418	3823.462745098
+Shivpuri	6	23	Madhya Pradesh	423	8834.5921568628
+Guna	41	23	Madhya Pradesh	458	13609.8431372549
+Gwalior	4	23	Madhya Pradesh	421	24998.431372549
+Morena	2	23	Madhya Pradesh	419	10737.0941176471
+Dhaulpur	8	8	Rajasthan	106	10527.6156862745
+Karauli	9	8	Rajasthan	107	26960.062745098
+Bharatpur	7	8	Rajasthan	105	48215.5960784314
+Mathura	14	9	Uttar Pradesh	145	41972.8980392157
+Mahamaya Nagar	13	9	Uttar Pradesh	144	24736.5607843137
+Agra	15	9	Uttar Pradesh	146	62093.211764706
+Bhind	3	23	Madhya Pradesh	420	9407.3921568628
+Firozabad	16	9	Uttar Pradesh	147	21880.9215686274
+Etah	70	9	Uttar Pradesh	201	9443.8470588235
+Kansiram Nagar	71	9	Uttar Pradesh	202	2700.2274509804
+Shahjahanpur	21	9	Uttar Pradesh	152	17258.3803921569
+Farrukhabad	28	9	Uttar Pradesh	159	7455.1019607843
+Mainpuri	17	9	Uttar Pradesh	148	8920.1215686275
+Etawah	30	9	Uttar Pradesh	161	16558.7490196078
+Kannauj	29	9	Uttar Pradesh	160	5362.3333333333
+Auraiya	31	9	Uttar Pradesh	162	10828.9215686275
+Jalaun	34	9	Uttar Pradesh	165	13102.4235294118
+Datia	5	23	Madhya Pradesh	422	5744.1647058824
+Tikamgarh	7	23	Madhya Pradesh	424	9462.8431372549
+Jhansi	35	9	Uttar Pradesh	166	25221.1647058823
+Lalitpur	36	9	Uttar Pradesh	167	6075.9098039216
+Hamirpur	37	9	Uttar Pradesh	168	8432.9568627451
+Mahoba	38	9	Uttar Pradesh	169	7929.2431372549
+Chhatarpur	8	23	Madhya Pradesh	425	16191.8666666667
+Sagar	10	23	Madhya Pradesh	427	39915.7764705882
+Damoh	11	23	Madhya Pradesh	428	12919.7058823529
+Raisen	29	23	Madhya Pradesh	446	20169.1450980392
+Vidisha	26	23	Madhya Pradesh	443	11006.4235294118
+Ashoknagar	42	23	Madhya Pradesh	459	5674.6901960784
+Bhopal	27	23	Madhya Pradesh	444	35737.4470588235
+Harda	31	23	Madhya Pradesh	448	13209.9764705882
+Hoshangabad	32	23	Madhya Pradesh	449	26592.1450980392
+Betul	30	23	Madhya Pradesh	447	14550.5607843137
+Chhindwara	38	23	Madhya Pradesh	455	27234.5725490196
+Narsimhapur	35	23	Madhya Pradesh	452	24345.5176470588
+Jabalpur	34	23	Madhya Pradesh	451	40254.337254902
+Seoni	39	23	Madhya Pradesh	456	14808.1529411765
+Mandla	37	23	Madhya Pradesh	454	7937.2509803922
+Balaghat	40	23	Madhya Pradesh	457	15393.9529411765
+Dindori	36	23	Madhya Pradesh	453	785.8941176471
+Katni	33	23	Madhya Pradesh	450	24110.6470588235
+Umaria	14	23	Madhya Pradesh	431	5602.5764705882
+Panna	9	23	Madhya Pradesh	426	3878.8352941177
+Satna	12	23	Madhya Pradesh	429	31731.1098039216
+Banda	39	9	Uttar Pradesh	170	8328.1411764706
+Chitrakoot	40	9	Uttar Pradesh	171	4904.3843137255
+Shahdol	43	23	Madhya Pradesh	460	9023.0823529412
+Sidhi	45	23	Madhya Pradesh	462	4533.2156862745
+Rewa	13	23	Madhya Pradesh	430	22651.9568627451
+Kaushambi	43	9	Uttar Pradesh	174	12699.0823529412
+Allahabad	44	9	Uttar Pradesh	175	50692.6392156863
+Sant Ravi Das Nagar(bhadohi)	67	9	Uttar Pradesh	198	9399.231372549
+Mirzapur	68	9	Uttar Pradesh	199	12692.7529411765
+Singrauli	46	23	Madhya Pradesh	463	27689.7843137255
+Koriya	1	22	Chhattisgarh	400	11562.1215686275
+Anuppur	44	23	Madhya Pradesh	461	11225.6156862745
+Kabeerdham	8	22	Chhattisgarh	407	18742.368627451
+Bilaspur	7	22	Chhattisgarh	406	62823.8666666668
+Korba	5	22	Chhattisgarh	404	37406.5411764706
+Surguja	2	22	Chhattisgarh	401	20263.768627451
+Sonbhadra	69	9	Uttar Pradesh	200	26005.3450980392
+Garhwa	1	20	Jharkhand	346	1590.8666666667
+Jashpur	3	22	Chhattisgarh	402	3918.137254902
+Raigarh	4	22	Chhattisgarh	403	48019.4509803922
+Gumla	21	20	Jharkhand	366	1356.4117647059
+Simdega	22	20	Jharkhand	367	624.6549019608
+Sundargarh	5	21	Odisha	374	36359.4666666666
+Ranchi	19	20	Jharkhand	364	29571.5490196078
+Lohardaga	11	20	Jharkhand	356	1828.4784313726
+Latehar	14	20	Jharkhand	359	2593.4549019608
+Chatra	2	20	Jharkhand	347	1721.1333333333
+Palamu	13	20	Jharkhand	358	5351.7411764706
+Rohtas	32	10	Bihar	234	9676.7294117647
+Kaimur (bhabua)	31	10	Bihar	233	4973.062745098
+Aurangabad	33	10	Bihar	235	4276.6117647059
+Gaya	34	10	Bihar	236	9682.0549019608
+Bhojpur	29	10	Bihar	231	3300.9647058824
+Arwal	38	10	Bihar	240	258.9176470588
+Jehanabad	37	10	Bihar	239	1545.8117647059
+Patna	28	10	Bihar	230	32228.0470588235
+Buxar	30	10	Bihar	232	2934.3019607843
+Ghazipur	64	9	Uttar Pradesh	195	13333.7490196078
+Chandauli	65	9	Uttar Pradesh	196	15673.1882352941
+Varanasi	66	9	Uttar Pradesh	197	22639.9058823529
+Jaunpur	63	9	Uttar Pradesh	194	13762.2235294118
+Pratapgarh	42	9	Uttar Pradesh	173	16868.5333333333
+Azamgarh	60	9	Uttar Pradesh	191	13643.8509803922
+Ambedkar Nagar	47	9	Uttar Pradesh	178	12076.0784313726
+Sultanpur	48	9	Uttar Pradesh	179	15152.9568627451
+Faizabad	46	9	Uttar Pradesh	177	14653.5764705882
+Basti	54	9	Uttar Pradesh	185	18392.2196078431
+Gonda	52	9	Uttar Pradesh	183	16854.5607843137
+Sant Kabir Nagar	55	9	Uttar Pradesh	186	7958.3882352941
+Gorakhpur	57	9	Uttar Pradesh	188	24877.4784313725
+Maharajganj	56	9	Uttar Pradesh	187	5337.8980392157
+Kushinagar	58	9	Uttar Pradesh	189	7278.1333333333
+Deoria	59	9	Uttar Pradesh	190	9734.4196078431
+Mau	61	9	Uttar Pradesh	192	15491.2745098039
+Ballia	62	9	Uttar Pradesh	193	7465.5019607843
+Siwan	16	10	Bihar	218	3319.3607843137
+Saran (chhapra)	17	10	Bihar	219	7600.7294117647
+Muzaffarpur	14	10	Bihar	216	12876.3411764706
+Gopalganj	15	10	Bihar	217	5593.0156862745
+Purba Champaran	2	10	Bihar	204	5522.9764705882
+Pashchim Champaran	1	10	Bihar	203	4929.2
+Siddharth Nagar	53	9	Uttar Pradesh	184	4056.8980392157
+Balrampur	51	9	Uttar Pradesh	182	6014.0156862745
+Shrawasti	50	9	Uttar Pradesh	181	3335.231372549
+Bahraich	49	9	Uttar Pradesh	180	8110.0352941177
+Kheri	22	9	Uttar Pradesh	153	29059.3058823529
+Sitapur	23	9	Uttar Pradesh	154	18578.9254901961
+Bara Banki	45	9	Uttar Pradesh	176	17037.9764705882
+Lucknow	26	9	Uttar Pradesh	157	60266.6431372549
+Hardoi	24	9	Uttar Pradesh	155	15551.9607843137
+Rae Bareli	27	9	Uttar Pradesh	158	13569.9137254902
+Fatehpur	41	9	Uttar Pradesh	172	10186.1960784314
+Unnao	25	9	Uttar Pradesh	156	14228.9647058824
+Kanpur Nagar	33	9	Uttar Pradesh	164	31449.2549019608
+Kanpur Dehat	32	9	Uttar Pradesh	163	8797.8941176471
+Pilibhit	20	9	Uttar Pradesh	151	6736.7254901961
+Bageshwar	8	5	Uttarakhand	63	4386.2470588235
+Champawat	10	5	Uttarakhand	65	920.9607843137
+Pithoragarh	7	5	Uttarakhand	62	4663.1568627451
+North	1	11	Sikkim	241	941.262745098
+East	4	11	Sikkim	244	5231.0745098039
+Jalpaiguri	2	19	West Bengal	328	39158.7921568627
+Koch Bihar	3	19	West Bengal	329	13495.4901960784
+Darjiling	1	19	West Bengal	327	23221.8823529412
+South	3	11	Sikkim	243	3975.6
+West	2	11	Sikkim	242	2197.168627451
+Kishanganj	8	10	Bihar	210	4157.9960784314
+Uttar Dinajpur	4	19	West Bengal	330	22988.0745098039
+Purnia	9	10	Bihar	211	9706.1764705882
+Katihar	10	10	Bihar	212	4530.2549019608
+Araria	7	10	Bihar	209	5349.5843137255
+Madhubani	5	10	Bihar	207	5575.9254901961
+Sitamarhi	4	10	Bihar	206	2329.6941176471
+Darbhanga	13	10	Bihar	215	5548.2745098039
+Sheohar	3	10	Bihar	205	296
+Vaishali	18	10	Bihar	220	8864.5529411765
+Samastipur	19	10	Bihar	221	5855.8509803922
+Begusarai	20	10	Bihar	222	8949.3843137255
+Khagaria	21	10	Bihar	223	1173.305882353
+Saharsa	12	10	Bihar	214	3188.7529411765
+Supaul	6	10	Bihar	208	5430.3725490196
+Madhepura	11	10	Bihar	213	2655.1333333333
+Bhagalpur	22	10	Bihar	224	13325.1607843137
+Sahibganj	7	20	Jharkhand	352	2796.3843137255
+Godda	6	20	Jharkhand	351	4024.9960784314
+Banka	23	10	Bihar	225	1121.4078431373
+Pakur	8	20	Jharkhand	353	2367.7960784314
+Dumka	17	20	Jharkhand	362	3575.2274509804
+Jamtara	18	20	Jharkhand	363	3923.3294117647
+Deoghar	5	20	Jharkhand	350	10316.8352941176
+Jamui	36	10	Bihar	238	839
+Giridih	4	20	Jharkhand	349	8031.7490196079
+Munger	24	10	Bihar	226	3077.5921568628
+Lakhisarai	25	10	Bihar	227	1414.6823529412
+Sheikhpura	26	10	Bihar	228	1078.5254901961
+Nawada	35	10	Bihar	237	1677.8274509804
+Nalanda	27	10	Bihar	229	8049.8980392157
+Kodarma	3	20	Jharkhand	348	7049.6666666667
+Hazaribagh	15	20	Jharkhand	360	13008.7882352941
+Dhanbad	9	20	Jharkhand	354	41324.8588235294
+Bokaro	10	20	Jharkhand	355	31942.7843137255
+Puruliya	14	19	West Bengal	340	22209.3294117647
+Ramgarh	16	20	Jharkhand	361	20354.168627451
+Khunti	20	20	Jharkhand	365	1113.2156862745
+Pashchimi Singhbhum	23	20	Jharkhand	368	13923.062745098
+Saraikela-kharsawan	24	20	Jharkhand	369	19556.6588235294
+Purbi Singhbhum	12	20	Jharkhand	357	24175.3098039216
+Pashchim Medinipur	18	19	West Bengal	344	50944.1960784314
+Bankura	13	19	West Bengal	339	43406.6235294118
+Barddhaman	9	19	West Bengal	335	104185.305882353
+Birbhum	8	19	West Bengal	334	31084.0039215686
+Hugli	12	19	West Bengal	338	46668.5490196079
+Haora	15	19	West Bengal	341	32975.3137254902
+North 24 Parganas	11	19	West Bengal	337	64316.1607843138
+Nadia	10	19	West Bengal	336	41368.1294117647
+Kolkata	16	19	West Bengal	342	7280.0823529412
+South 24 Parganas	17	19	West Bengal	343	58973.3607843137
+Murshidabad	7	19	West Bengal	333	37705.8431372549
+Maldah	6	19	West Bengal	332	17285.7725490196
+Dakshin Dinajpur	5	19	West Bengal	331	11054.7607843137
+Purba Medinipur	19	19	West Bengal	345	37427.9607843137
+Ganjam	19	21	Odisha	388	28940.6784313726
+Puri	18	21	Odisha	387	15623.1450980392
+Khordha	17	21	Odisha	386	27761.2039215686
+Nayagarh	16	21	Odisha	385	6704.4941176471
+Cuttack	12	21	Odisha	381	36920.8039215686
+Dhenkanal	14	21	Odisha	383	20634.0705882353
+Anugul	15	21	Odisha	384	38381.6274509804
+Jajapur	13	21	Odisha	382	32418.5607843137
+Kendujhar	6	21	Odisha	375	25752.1176470588
+Kendrapara	10	21	Odisha	379	12216.6784313726
+Jagatsinghapur	11	21	Odisha	380	16980.1960784314
+Baleshwar	8	21	Odisha	377	22782.9568627451
+Bhadrak	9	21	Odisha	378	9772.5568627451
+Mayurbhanj	7	21	Odisha	376	13722.568627451
+Debagarh	4	21	Odisha	373	1754.1215686275
+Sambalpur	3	21	Odisha	372	21617.5490196078
+Jharsuguda	2	21	Odisha	371	21635.2823529412
+Bargarh	1	21	Odisha	370	13916.9450980392
+Subarnapur	23	21	Odisha	392	3567.4705882353
+Balangir	24	21	Odisha	393	11107.8392156863
+Bauda	22	21	Odisha	391	925.3450980392
+Kandhamal	21	21	Odisha	390	1425
+Gajapati	20	21	Odisha	389	2082.9607843137
+Rayagada	27	21	Odisha	396	7045.1490196079
+Kalahandi	26	21	Odisha	395	10566.9725490196
+Nuapada	25	21	Odisha	394	2423.3098039216
+Raipur	11	22	Chhattisgarh	410	95068.9686274511
+Nabarangapur	28	21	Odisha	397	2738.1921568628
+Mahasamund	12	22	Chhattisgarh	411	21743.862745098
+Janjgir-champa	6	22	Chhattisgarh	405	43678.7843137256
+Durg	10	22	Chhattisgarh	409	90044.8509803922
+Dhamtari	13	22	Chhattisgarh	412	15749.937254902
+Rajnandgaon	9	22	Chhattisgarh	408	34353.1411764706
+Gondiya	11	27	Maharashtra	507	21513.5058823529
+Nagpur	9	27	Maharashtra	505	98886.0666666667
+Bhandara	10	27	Maharashtra	506	22226.9921568627
+Garhchiroli	12	27	Maharashtra	508	14150.6745098039
+Uttar Bastar Kanker	14	22	Chhattisgarh	413	7337.7882352941
+Chandrapur	13	27	Maharashtra	509	65442.7529411765
+Adilabad	1	28	Andhra Pradesh	532	94949.5137254902
+Narayanpur	16	22	Chhattisgarh	415	364.6274509804
+Bijapur	18	22	Chhattisgarh	417	622.9058823529
+Bastar	15	22	Chhattisgarh	414	9441.768627451
+Koraput	29	21	Odisha	398	11217.9215686275
+Dakshin Bastar Dantewada	17	22	Chhattisgarh	416	6115.7882352941
+Malkangiri	30	21	Odisha	399	2464.3725490196
+Visakhapatnam	13	28	Andhra Pradesh	544	73557.1333333333
+East Godavari	14	28	Andhra Pradesh	545	91529.7294117648
+Khammam	10	28	Andhra Pradesh	541	85430.9647058826
+Warangal	9	28	Andhra Pradesh	540	104755.988235294
+Karimnagar	3	28	Andhra Pradesh	534	140098.721568627
+Krishna	16	28	Andhra Pradesh	547	102722.631372549
+Nalgonda	8	28	Andhra Pradesh	539	142940.6
+Guntur	17	28	Andhra Pradesh	548	122123.6
+Prakasam	18	28	Andhra Pradesh	549	96191.9568627451
+West Godavari	15	28	Andhra Pradesh	546	77475.6078431373
+Yanam	1	34	Puducherry	634	1383.7843137255
+Vizianagaram	12	28	Andhra Pradesh	543	32921.4235294118
+Srikakulam	11	28	Andhra Pradesh	542	40791.3137254902
+Sri Potti Sriramulu Nellore	19	28	Andhra Pradesh	550	99954.9725490197
+Y.s.r.	20	28	Andhra Pradesh	551	92668.7098039216
+Chittoor	23	28	Andhra Pradesh	554	132119.043137255
+Thiruvallur	1	33	Tamil Nadu	602	73610.6431372549
+Kancheepuram	3	33	Tamil Nadu	604	110359.780392157
+Chennai	2	33	Tamil Nadu	603	9697.6235294118
+Vellore	4	33	Tamil Nadu	605	80431.2196078432
+Tiruvannamalai	5	33	Tamil Nadu	606	58136.7647058824
+Viluppuram	6	33	Tamil Nadu	607	80193.8823529412
+Puducherry	2	34	Puducherry	635	11724.6392156863
+Cuddalore	16	33	Tamil Nadu	617	62775.1568627451
+Nagappattinam	17	33	Tamil Nadu	618	28501.5450980392
+Ariyalur	15	33	Tamil Nadu	616	21425.1490196079
+Thanjavur	19	33	Tamil Nadu	620	46150.7058823529
+Karaikal	4	34	Puducherry	637	4477.9411764706
+Thiruvarur	18	33	Tamil Nadu	619	24134.0039215686
+Virudunagar	24	33	Tamil Nadu	625	43515.5960784314
+Pudukkottai	20	33	Tamil Nadu	621	43848.5137254903
+Ramanathapuram	25	33	Tamil Nadu	626	26026.3333333333
+Sivaganga	21	33	Tamil Nadu	622	36811.1450980393
+Tiruchirappalli	13	33	Tamil Nadu	614	58737.4980392158
+Madurai	22	33	Tamil Nadu	623	45564.3882352942
+Dindigul	11	33	Tamil Nadu	612	54193.9882352942
+Thoothukkudi	26	33	Tamil Nadu	627	48521.2078431373
+Tirunelveli	27	33	Tamil Nadu	628	84029.1411764707
+Kollam	13	32	Kerala	600	29492.0980392157
+Thiruvananthapuram	14	32	Kerala	601	37200.3176470588
+Kanniyakumari	28	33	Tamil Nadu	629	27382.4431372549
+Alappuzha	11	32	Kerala	598	20890.5803921569
+Pathanamthitta	12	32	Kerala	599	16168.0941176471
+Kottayam	10	32	Kerala	597	24007.5803921569
+Idukki	9	32	Kerala	596	18073.737254902
+Theni	23	33	Tamil Nadu	624	20491.937254902
+Tiruppur	32	33	Tamil Nadu	633	70374.7882352942
+Coimbatore	31	33	Tamil Nadu	632	77370.1764705883
+Palakkad	6	32	Kerala	593	36365.0627450981
+Thrissur	7	32	Kerala	594	36587.2666666667
+Ernakulam	8	32	Kerala	595	50784.4980392157
+Lakshadweep	1	31	Lakshadweep	587	359.6470588235
+Dakshina Kannada	21	29	Karnataka	575	40805.1843137255
+Udupi	15	29	Karnataka	569	24314.8117647059
+Kasaragod	1	32	Kerala	588	14991.6156862745
+Kannur	2	32	Kerala	589	24667.0862745098
+Mahe	3	34	Puducherry	636	248.4549019608
+Kozhikode	4	32	Kerala	591	23777.4666666667
+Kodagu	22	29	Karnataka	576	9833.9882352941
+Chikmagalur	16	29	Karnataka	570	26445.4039215686
+Hassan	20	29	Karnataka	574	52226.9843137256
+Mysore	23	29	Karnataka	577	68138.4784313726
+Tumkur	17	29	Karnataka	571	88923.8705882354
+Mandya	19	29	Karnataka	573	53987.4078431373
+Wayanad	3	32	Kerala	590	10631.431372549
+Chamrajnagar	24	29	Karnataka	578	28534.5137254902
+The Nilgiris	10	33	Tamil Nadu	611	15171.3215686275
+Malappuram	5	32	Kerala	592	28854.3450980392
+Erode	9	33	Tamil Nadu	610	57475.8745098039
+Namakkal	8	33	Tamil Nadu	609	52557.6705882353
+Salem	7	33	Tamil Nadu	608	83907.2509803921
+Karur	12	33	Tamil Nadu	613	32499.5254901961
+Perambalur	14	33	Tamil Nadu	615	17019.831372549
+Dharmapuri	29	33	Tamil Nadu	630	35081.6823529412
+Krishnagiri	30	33	Tamil Nadu	631	45625.1647058825
+Kolar	27	29	Karnataka	581	49052.6156862745
+Bangalore Rural	29	29	Karnataka	583	44084.1647058823
+Chikkaballapura	28	29	Karnataka	582	41279.2901960784
+Bangalore	18	29	Karnataka	572	109159.968627451
+Ramanagara	30	29	Karnataka	584	42528.8078431373
+Anantapur	22	28	Andhra Pradesh	553	135379.643137255
+Chitradurga	12	29	Karnataka	566	57530.2666666667
+Davanagere	13	29	Karnataka	567	42836.6470588236
+Bellary	11	29	Karnataka	565	76364.094117647
+Kurnool	21	28	Andhra Pradesh	552	102359.015686275
+Mahbubnagar	7	28	Andhra Pradesh	538	168213.760784314
+Raichur	5	29	Karnataka	559	55832.1764705882
+Koppal	6	29	Karnataka	560	38250.8549019608
+Bagalkot	2	29	Karnataka	556	65453.9490196079
+Gadag	7	29	Karnataka	561	23887.2745098039
+Belgaum	1	29	Karnataka	555	132786.239215686
+Dharwad	8	29	Karnataka	562	37144.9490196078
+Haveri	10	29	Karnataka	564	36177.7490196078
+Uttara Kannada	9	29	Karnataka	563	23988.4784313725
+Shimoga	14	29	Karnataka	568	37930.4470588235
+South Goa	2	30	Goa	586	23391.2980392157
+North Goa	1	30	Goa	585	32616.9450980392
+Kolhapur	34	27	Maharashtra	530	75353.8705882352
+Sindhudurg	33	27	Maharashtra	529	21299.6235294118
+Ratnagiri	32	27	Maharashtra	528	36122.1529411765
+Sangli	35	27	Maharashtra	531	75284.9490196079
+Solapur	30	27	Maharashtra	526	149664.164705882
+Satara	31	27	Maharashtra	527	91548.7960784314
+Pune	25	27	Maharashtra	521	243638.733333334
+Raigarh	24	27	Maharashtra	520	90150.1294117647
+Ahmadnagar	26	27	Maharashtra	522	158404.329411765
+Bid	27	27	Maharashtra	523	83191.9843137255
+Osmanabad	29	27	Maharashtra	525	52003.1647058823
+Parbhani	17	27	Maharashtra	513	43748.4352941177
+Latur	28	27	Maharashtra	524	46570.1607843138
+Gulbarga	25	29	Karnataka	579	86400.380392157
+Bijapur	3	29	Karnataka	557	63664.8000000001
+Yadgir	26	29	Karnataka	580	34005.1882352941
+Bidar	4	29	Karnataka	558	46099.5137254902
+Rangareddy	6	28	Andhra Pradesh	537	164957.666666667
+Medak	4	28	Andhra Pradesh	535	127077.588235294
+Hyderabad	5	28	Andhra Pradesh	536	13724.8745098039
+Nizamabad	2	28	Andhra Pradesh	533	93726.6352941177
+Nanded	15	27	Maharashtra	511	65676.6627450981
+Hingoli	16	27	Maharashtra	512	28123.2392156863
+Jalna	18	27	Maharashtra	514	54219.8078431373
+Buldana	4	27	Maharashtra	500	59483.3568627452
+Washim	6	27	Maharashtra	502	31423.4039215686
+Akola	5	27	Maharashtra	501	40105.5882352941
+Yavatmal	14	27	Maharashtra	510	76684.8666666667
+Amravati	7	27	Maharashtra	503	67310.380392157
+Wardha	8	27	Maharashtra	504	38957.4823529413
+Burhanpur	50	23	Madhya Pradesh	467	6243.5882352941
+Jalgaon	3	27	Maharashtra	499	85844.9647058825
+Dhule	2	27	Maharashtra	498	33736.2745098039
+Aurangabad	19	27	Maharashtra	515	82335.3490196079
+Nashik	20	27	Maharashtra	516	128751.698039216
+Thane	21	27	Maharashtra	517	135504.109803922
+The Dangs	22	24	Gujarat	489	1569.7882352941
+Valsad	24	24	Gujarat	491	32991.4901960784
+Navsari	23	24	Gujarat	490	21999.3490196078
+Tapi	26	24	Gujarat	493	19819.0666666667
+Surat	25	24	Gujarat	492	80971.9215686275
+Dadra & Nagar Haveli	1	26	Dadara & Nagar Havelli	496	12762.031372549
+Daman	2	25	Daman & Diu	495	4323.9882352941
+Diu	1	25	Daman & Diu	494	977.0078431373
+Mumbai Suburban	22	27	Maharashtra	518	32173.0235294118
+Mumbai	23	27	Maharashtra	519	9728.5294117647
