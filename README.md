@@ -43,9 +43,9 @@ c.Using 128 length feature vector :  60.16% using Random Forest
 
 
 Confusion matrix:
-![unnormalized_emp_confusion_matrix](emp_unnormalized_confusion_matrix.png)
+![unnormalized_emp_confusion_matrix](Results/emp_unnormalized_confusion_matrix.png)
 
-![normalized_emp_confusion_matrix](emp_normalized_confusion_matrix.png)
+![normalized_emp_confusion_matrix](Results/emp_normalized_confusion_matrix.png)
 
 
 
